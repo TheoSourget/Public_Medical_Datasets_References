@@ -1,0 +1,33 @@
+name, file, description
+
+name, venues.csv, name of the venue as used by dblp (it is used to filter out workshop which are refered as workshop@venue)
+api_link, venues.csv, base link use to query the dblp api (needed to get the list of paper for this venue) 
+start_year, venues.csv, minimal year to keep the paper
+end_year, venues.csv, maximal year to keep the paper
+
+name, datasets.csv, name of the dataset
+doi, datasets.csv, doi of the dataset
+url, datasets.csv, url linked to the dataset
+aliases, datasets.csv, list of possible aliases for the dataset
+organ, datasets.csv, organ considered by the dataset
+task, datasets.csv, either classification or segmentation
+
+doi, papers_from_venues.csv, doi of the paper if it exists
+title, papers_from_venues.csv, title of the paper
+venue, papers_from_venues.csv, venue in which the paper was published
+
+doi, papers_infos_openalex.csv, doi of the paper if it exists
+title, papers_infos_openalex.csv, title of the paper
+venue, papers_infos_openalex.csv, venue in which the paper was published
+year, papers_infos_openalex.csv, year of publication (Can be None)
+abstract, papers_infos_openalex.csv, dictionary of words as keys and indexes in the abstract as values (Can be None)
+references, papers_infos_openalex.csv, list of openalex id referenced by this paper (Can be None)
+fulltext_link, papers_infos_openalex.csv, url to fulltext pdf (Can be None)
+
+doi, oa_papers_datasets_reference.csv, doi of the paper (Can be None)
+name, oa_papers_datasets_reference.csv, title of the paper
+1 column per dataset, oa_papers_datasets_reference.csv, True if the dataset is present in the reference section False otherwise
+
+doi, oa_papers_datasets_abstract.csv, doi of the paper (Can be None)
+name, oa_papers_datasets_abstract.csv, title of the paper
+1 column per dataset, oa_papers_datasets_abstract.csv, True if the dataset name or aliases is cited in the abstract section 

@@ -1,0 +1,2 @@
+Mainly based on the work of https://github.com/madprogramer/PublicDatasets/
+Especially from this folder: https://github.com/madprogramer/PublicDatasets/tree/main/Legacy/ArticleScraper/ArticleScraper

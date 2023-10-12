@@ -1,0 +1,6 @@
+name,doi,url,aliases,organ,task
+ACDC,10.1109/TMI.2018.2837502,None,ACDC,Cardiac,Segmentation
+sunnybrook,https://doi.org/10.54294/g80ruo,None,sunnybrook,Cardiac,Segmentation
+STACOM’11,10.1007/978-3-642-28326-0_9,None,STACOM’11,Cardiac,Segmentation
+RVSC,https://doi.org/10.1016/j.media.2014.10.004,None,RVSC,Cardiac,Segmentation
+M&Ms,10.1109/tmi.2021.3090082,None,M&Ms,Cardiac,Segmentation
