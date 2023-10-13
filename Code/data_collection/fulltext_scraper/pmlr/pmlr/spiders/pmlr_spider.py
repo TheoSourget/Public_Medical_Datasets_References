@@ -51,9 +51,10 @@ class PMLRSpider(scrapy.Spider):
     def save_pdf(self, response):
         try:
             # path = response.url.split('/')[-1]
-            title = response.meta['title']+".PDF"
-            self.logger.info('Saving PDF %s', title)
-            with open(f"../../../../Results/extraction/fulltext/{title}", 'wb') as f:
-                f.write(response.body)
+            if "Preface" not in response.meta['title']:
+                title = response.meta['title']+".pdf"
+                self.logger.info('Saving PDF %s', title)
+                with open(f"../../../../Results/extraction/fulltext/{title}", 'wb') as f:
+                    f.write(response.body)
         except Exception as e:
             print(e)

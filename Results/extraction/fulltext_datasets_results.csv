@@ -1,0 +1,124 @@
+name,ACDC,sunnybrook,STACOM’11,RVSC,M&Ms,BRATS,PROMISE12,LIDC-IDRI,DRIVE,CBIS-DDSM
+MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models.,False,False,False,False,False,False,False,False,False,False
+Continual Learning for Domain Adaptation in Chest X-ray Classification.,False,False,False,False,False,False,False,False,False,False
+Weakly Supervised Volumetric Segmentation via Self-taught Shape Denoising Model.,False,False,False,False,False,False,False,False,False,False
+Generating Fundus Fluorescence Angiography Images from Structure Fundus Images Using Generative Adversarial Networks.,False,False,False,False,False,False,False,False,False,False
+Untangling the Small Intestine in 3D cine-MRI using Deep Stochastic Tracking.,False,False,False,False,False,False,False,False,False,False
+Feature Disentanglement to Aid Imaging Biomarker Characterization for Genetic Mutations.,False,False,False,False,False,False,False,False,False,False
+Laplacian pyramid-based complex neural network learning for fast MR imaging.,False,False,False,False,False,False,False,False,False,False
+Stroke Lesion Outcome Prediction Based on 4D CT Perfusion Data Using Temporal Convolutional Networks.,False,False,False,False,False,False,False,False,False,False
+Fusing Structural and Functional MRIs using Graph Convolutional Networks for Autism Classification.,False,False,False,False,False,False,False,False,False,False
+Cascade Dual-branch Deep Neural Networks for Retinal Layer and fluid Segmentation of Optical Coherence Tomography Incorporating Relative Positional Map.,False,False,False,False,False,False,False,False,False,False
+Knee Injury Detection using MRI with Efficiently-Layered Network (ELNet).,False,False,False,False,False,False,False,False,False,False
+Understanding and Visualizing Generalization in UNets.,False,False,False,False,False,False,False,False,False,False
+Automatic Segmentation of Head and Neck Tumors and Nodal Metastases in PET-CT scans.,False,False,False,False,False,False,False,False,False,False
+PathologyGAN: Learning deep representations of cancer tissue.,False,False,False,False,False,False,False,False,False,False
+Training deep segmentation networks on texture-encoded input: application to neuroimaging of the developing neonatal brain.,False,False,False,False,False,False,False,False,False,False
+A Surprisingly Effective Perimeter-based Loss for Medical Image Segmentation.,True,False,False,False,False,False,False,False,False,False
+An Auxiliary Task for Learning Nuclei Segmentation in 3D Microscopy Images.,False,False,False,False,False,False,False,False,False,False
+Automated triaging of head MRI examinations using convolutional neural networks.,False,False,False,False,False,False,False,False,False,False
+Self-supervised Out-of-distribution Detection for Cardiac CMR Segmentation.,False,False,False,False,False,False,False,False,False,False
+Breaking Speed Limits with Simultaneous Ultra-Fast MRI Reconstruction and Tissue Segmentation.,False,False,False,False,False,False,False,False,False,False
+DIVA: Domain Invariant Variational Autoencoders.,False,False,False,False,False,False,False,False,False,False
+Localizing Neurosurgical Instruments Across Domains and in the Wild.,False,False,False,False,False,False,False,False,False,False
+CNN and Deep Sets for End-to-End Whole Slide Image Representation Learning.,False,False,False,False,False,False,False,False,False,False
+How Distance Transform Maps Boost Segmentation CNNs: An Empirical Study.,False,False,False,False,False,False,False,False,False,False
+Towards multi-sequence MR image recovery from undersampled k-space data.,False,False,False,False,False,False,False,False,False,False
+KD-MRI: A knowledge distillation framework for image reconstruction and image restoration in MRI workflow.,True,False,False,False,False,False,False,False,False,False
+Automated Labelling using an Attention model for Radiology reports of MRI scans (ALARM).,False,False,False,False,False,False,False,False,False,False
+Distill DSM: Computationally efficient method for segmentation of medical imaging volumes.,False,False,False,False,False,False,False,False,False,False
+Hybrid optimization between iterative and network fine-tuning reconstructions for fast quantitative susceptibility mapping.,False,False,False,False,False,False,False,False,False,False
+Feature-based image registration in structured light endoscopy.,False,False,False,False,False,False,False,False,False,False
+Well-Calibrated Regression Uncertainty in Medical Imaging with Deep Learning.,False,False,False,False,False,False,False,False,False,False
+On Direct Distribution Matching for Adapting Segmentation Networks.,False,False,False,False,False,False,False,False,False,False
+Extending Unsupervised Neural Image Compression With Supervised Multitask Learning.,False,False,False,False,False,False,False,False,False,False
+An MRF-UNet Product of Experts for Image Segmentation.,False,False,False,False,False,False,False,False,False,False
+SAU-Net: Efficient 3D Spine MRI Segmentation Using Inter-Slice Attention.,False,False,False,False,False,False,False,False,False,False
+Siamese Content Loss Networks for Highly Imbalanced Medical Image Segmentation.,False,False,False,False,False,False,False,False,False,False
+Brain Metastasis Segmentation Network Trained with Robustness to Annotations with Multiple False Negatives.,False,False,False,False,False,False,False,False,False,False
+"EPIC-Survival: End-to-end Part Inferred Clustering for Survival Analysis, with Prognostic Stratification Boosting.",False,False,False,False,False,False,False,False,False,False
+Accurate Detection of Out of Body Segments in Surgical Video using Semi-Supervised Learning.,False,False,False,False,False,False,False,False,False,False
+Whole-Body Soft-Tissue Lesion Tracking and Segmentation in Longitudinal CT Imaging Studies.,False,False,False,False,False,False,False,False,False,False
+A Mean-Field Variational Inference Approach to Deep Image Prior for Inverse Problems in Medical Imaging.,False,False,False,False,False,False,False,False,False,False
+Self-Rule to Adapt: Learning Generalized Features from Sparsely-Labeled Data Using Unsupervised Domain Adaptation for Colorectal Cancer Tissue Phenotyping.,False,False,False,False,False,False,False,False,False,False
+Learning the Latent Heat Diffusion Process through Structural Brain Network from Longitudinal $\beta$-Amyloid Data.,False,False,False,False,False,False,False,False,False,False
+Uncertainty-based Graph Convolutional Networks for Organ Segmentation Refinement.,False,False,False,False,False,False,False,False,False,False
+Intensity Correction and Standardization for Electron Microscopy Data.,False,False,False,False,False,False,False,False,False,False
+Addressing The False Negative Problem of Deep Learning MRI Reconstruction Models by Adversarial Attacks and Robust Training.,False,False,False,False,False,False,False,False,False,False
+A Heteroscedastic Uncertainty Model for Decoupling Sources of MRI Image Quality.,False,False,False,False,False,False,False,False,False,False
+M-GCN: A Multimodal Graph Convolutional Network to Integrate Functional and Structural Connectomics Data to Predict Multidimensional Phenotypic Characterizations.,False,False,False,False,False,False,False,False,False,False
+The OOD Blind Spot of Unsupervised Anomaly Detection.,False,False,False,False,False,False,False,False,False,False
+Uncertainty-Aware Training of Neural Networks for Selective Medical Image Segmentation.,False,False,False,False,False,False,False,False,False,False
+On the limits of cross-domain generalization in automated X-ray prediction.,False,False,False,False,False,False,False,False,False,False
+Gifsplanation via Latent Shift: A Simple Autoencoder Approach to Counterfactual Generation for Chest X-rays.,False,False,False,False,False,False,False,False,False,False
+GOAL: Gist-set Online Active Learning for Efficient Chest X-ray Image Annotation.,False,False,False,False,False,False,False,False,False,False
+Priority U-Net: Detection of Punctuate White Matter Lesions in Preterm Neonate in 3D Cranial Ultrasonography.,False,False,False,False,False,False,False,False,False,False
+Unifying Brain Age Prediction and Age-Conditioned Template Generation with a Deterministic Autoencoder.,False,False,False,False,False,False,False,False,False,False
+Locating Cephalometric X-Ray Landmarks with Foveated Pyramid Attention.,False,False,False,False,False,False,False,False,False,False
+Membership Inference Attacks on Deep Regression Models for Neuroimaging.,False,False,False,False,False,False,False,False,False,False
+Partial transfusion: on the expressive influence of trainable batch norm parameters for transfer learning.,False,False,False,False,False,False,False,False,False,False
+Weakly-supervised High-resolution Segmentation of Mammography Images for Breast Cancer Diagnosis.,False,False,False,False,False,False,False,False,False,False
+Predicting COVID-19 Lung Infiltrate Progression on Chest Radiographs Using Spatio-temporal LSTM based Encoder-Decoder Network.,False,False,False,False,False,False,False,False,False,False
+Quantifying the Value of Lateral Views in Deep Learning for Chest X-rays.,False,False,False,False,False,False,False,False,False,False
+Attention via Scattering Transforms for Segmentation of Small Intravascular Ultrasound Data Sets.,False,False,False,False,False,False,False,False,False,False
+Skull R-CNN: A CNN-based network for the skull fracture detection.,False,False,False,False,False,False,False,False,False,False
+Tensor Networks for Medical Image Classification.,False,False,False,False,False,False,False,False,False,False
+Tailoring automated data augmentation to H&E-stained histopathology.,False,False,False,False,False,False,False,False,False,False
+SWNet: Surgical Workflow Recognition with Deep Convolutional Network.,False,False,False,False,False,False,False,False,False,False
+Improved model-based deep learning for quantitative susceptibility mapping.,False,False,False,False,False,False,False,False,False,False
+A Learning Strategy for Contrast-agnostic MRI Segmentation.,False,False,False,False,False,False,False,False,False,False
+Efficient Out-of-Distribution Detection in Digital Pathology Using Multi-Head Convolutional Neural Networks.,False,False,False,False,False,False,False,False,False,False
+Semantic similarity metrics for learned image registration.,False,False,False,False,False,False,False,False,False,False
+"Residual learning for 3D motion corrected quantitative MRI: Robust clinical T1, T2 and proton density mapping.",False,False,False,False,False,False,False,False,False,False
+Image Sequence Generation and Analysis via GRU and Attention for Trachomatous Trichiasis Classification.,False,False,False,False,False,False,False,False,False,False
+An AI-based Framework for Diagnostic Quality Assessment of Ankle Radiographs.,False,False,False,False,False,False,False,False,False,False
+3D-RADNet: Extracting labels from DICOM metadata for training general medical domain deep 3D convolution neural networks.,False,False,False,False,False,False,False,False,False,False
+4D Semantic Cardiac Magnetic Resonance Image Synthesis on XCAT Anatomical Model.,True,False,False,False,False,False,False,False,False,False
+Direct Inference of Cell Positions using Lens-Free Microscopy and Deep Learning.,False,False,False,False,False,False,False,False,False,False
+Cluster-to-Conquer: A Framework for End-to-End Multi-Instance Learning for Whole Slide Image Classification.,False,False,False,False,False,False,False,False,False,False
+"“Train one, Classify one, Teach one” - Cross-surgery transfer learning for surgical step recognition.",False,False,False,False,False,False,False,False,False,False
+Unseen Disease Detection for Deep Learning Interpretation of Chest X-rays.,False,False,False,False,False,False,False,False,False,False
+HAD-Net: A Hierarchical Adversarial Knowledge Distillation Network for Improved Enhanced Tumour Segmentation Without Post-Contrast Images.,False,False,False,False,False,False,False,False,False,False
+Multitask radiological modality invariant landmark localization using deep reinforcement learning.,False,False,False,False,False,False,False,False,False,False
+Nuc2Vec: Learning Representations of Nuclei in Histopathology Images with Contrastive Loss.,False,False,False,False,False,False,False,False,False,False
+Beyond Classification: Whole Slide Tissue Histopathology Analysis By End-To-End Part Learning.,False,False,False,False,False,False,False,False,False,False
+Deep Reinforcement Learning for Organ Localization in CT.,False,False,False,False,False,False,False,False,False,False
+Improving Weakly Supervised Lesion Segmentation using Multi-Task Learning.,False,False,False,False,False,False,False,False,False,False
+Bayesian Learning of Probabilistic Dipole Inversion for Quantitative Susceptibility Mapping.,False,False,False,False,False,False,False,False,False,False
+DRMIME: Differentiable Mutual Information and Matrix Exponential for Multi-Resolution Image Registration.,False,False,False,False,False,False,False,False,False,False
+Changing the Contrast of Magnetic Resonance Imaging Signals using Deep Learning.,False,False,False,False,False,False,False,False,False,False
+Comparing Objective Functions for Segmentation and Detection of Microaneurysms in Retinal Images.,False,False,False,False,False,False,False,False,False,False
+Beyond pixel-wise supervision for segmentation: A few global shape descriptors might be surprisingly good!.,True,False,False,False,False,False,False,False,False,False
+Automatic Diagnosis of Pulmonary Embolism Using an Attention-guided Framework: A Large-scale Study.,False,False,False,False,False,False,False,False,False,False
+Improving the Ability of Deep Neural Networks to Use Information from Multiple Views in Breast Cancer Screening.,False,False,False,False,False,False,False,False,False,False
+Deep learning-based parameter mapping for joint relaxation and diffusion tensor MR Fingerprinting.,False,False,False,False,False,False,False,False,False,False
+Improving MRI-based Knee Disorder Diagnosis with Pyramidal Feature Details.,False,False,False,False,False,False,False,False,False,False
+Guided Filter Regularization for Improved Disentanglement of Shape and Appearance in Diffeomorphic Autoencoders.,False,False,False,False,False,False,False,False,False,False
+Benefits of Linear Conditioning for Segmentation using Metadata.,False,False,False,False,False,False,False,False,False,False
+A Cross-Stitch Architecture for Joint Registration and Segmentation in Adaptive Radiotherapy.,False,False,False,False,False,False,False,False,False,False
+Discrete Pseudohealthy Synthesis: Aortic Root Shape Typification and Type Classification with Pathological Prior.,False,False,False,False,False,False,False,False,False,False
+A deep learning approach to segmentation of the developing cortex in fetal brain MRI with minimal manual labeling.,False,False,False,False,False,False,False,False,False,False
+Learning Interclass Relations for Intravenous Contrast Phase Classification in CT.,False,False,False,False,False,False,False,False,False,False
+Bounding boxes for weakly supervised segmentation: Global constraints get close to full supervision.,False,False,False,False,False,False,True,False,False,False
+A regularization term for slide correlation reduction in whole slide image analysis with deep learning.,False,False,False,False,False,False,False,False,False,False
+Understanding Alzheimer disease’s structural connectivity through explainable AI.,False,False,False,False,False,False,False,False,False,False
+Domain adaptation model for retinopathy detection from cross-domain OCT images.,False,False,False,False,False,False,False,False,False,False
+Balanced sampling for an object detection problem - application to fetal anatomies detection.,False,False,False,False,False,False,False,False,False,False
+Mutual information deep regularization for semi-supervised segmentation.,True,False,False,False,False,False,False,False,False,False
+Learning Diffeomorphic and Modality-invariant Registration using B-splines.,False,False,False,False,False,False,False,False,False,False
+Red-GAN: Attacking class imbalance via conditioned generation. Yet another medical imaging perspective..,False,False,False,False,False,False,False,False,False,False
+Siamese Tracking of Cell Behaviour Patterns.,False,False,False,False,False,False,False,False,False,False
+CheXseg: Combining Expert Annotations with DNN-generated Saliency Maps for X-ray Segmentation.,False,False,False,False,False,False,False,False,False,False
+Embedding-based Instance Segmentation in Microscopy.,False,False,False,False,False,False,False,False,False,False
+Adversarial Domain Adaptation for Cell Segmentation.,False,False,False,False,False,False,False,False,False,False
+Prostate Cancer Semantic Segmentation by Gleason Score Group in bi-parametric MRI with Self Attention Model on the Peripheral Zone.,False,False,False,False,False,False,False,False,False,False
+Deep learning-based retinal vessel segmentation with cross-modal evaluation.,False,False,False,False,False,False,False,False,True,False
+Fast Mitochondria Detection for Connectomics.,False,False,False,False,False,False,False,False,False,False
+An Auto-Encoder Strategy for Adaptive Image Segmentation.,False,False,False,False,False,False,False,False,False,False
+End-to-end learning of convolutional neural net and dynamic programming for left ventricle segmentation.,True,False,False,False,False,False,False,False,False,False
+Correlation via Synthesis: End-to-end Image Generation and Radiogenomic Learning Based on Generative Adversarial Network.,False,False,False,False,False,False,False,False,False,False
+MAC-ReconNet: A Multiple Acquisition Context based Convolutional Neural Network for MR Image Reconstruction using Dynamic Weight Prediction.,False,False,False,False,False,False,False,False,False,False
+Feedback Graph Attention Convolutional Network for MR Images Enhancement by Exploring Self-Similarity Features.,False,False,False,False,False,False,False,False,False,False
+Unsupervised Brain Anomaly Detection and Segmentation with Transformers.,False,False,False,False,False,True,False,False,False,False
+Explainable Image Quality Analysis of Chest X-Rays.,False,False,False,False,False,False,False,False,False,False
+Direct estimation of fetal head circumference from ultrasound images based on regression CNN.,False,False,False,False,False,False,False,False,False,False
