@@ -3800,3 +3800,51 @@ None,Bayesian Learning of Probabilistic Dipole Inversion for Quantitative Suscep
 None,Direct estimation of fetal head circumference from ultrasound images based on regression CNN.,MIDL
 None,SAU-Net: Efficient 3D Spine MRI Segmentation Using Inter-Slice Attention.,MIDL
 None,Accurate Detection of Out of Body Segments in Surgical Video using Semi-Supervised Learning.,MIDL
+None,Training Deep Networks on Domain Randomized Synthetic X-ray Data for Cardiac Interventions.,MIDL
+None,AnatomyGen: Deep Anatomy Generation From Dense Representation With Applications in Mandible Synthesis.,MIDL
+None,Exploring local rotation invariance in 3D CNNs with steerable filters.,MIDL
+None,On the Spatial and Temporal Influence for the Reconstruction of Magnetic Resonance Fingerprinting.,MIDL
+None,Image Synthesis with a Convolutional Capsule Generative Adversarial Network.,MIDL
+None,Fusing Unsupervised and Supervised Deep Learning for White Matter Lesion Segmentation.,MIDL
+None,Stain-Transforming Cycle-Consistent Generative Adversarial Networks for Improved Segmentation of Renal Histopathology.,MIDL
+None,Learning interpretable multi-modal features for alignment with supervised iterative descent.,MIDL
+None,Learning from sparsely annotated data for semantic segmentation in histopathology images.,MIDL
+None,Segmenting Potentially Cancerous Areas in Prostate Biopsies using Semi-Automatically Annotated Data.,MIDL
+None,Deep Hierarchical Multi-label Classification of Chest X-ray Images.,MIDL
+None,Digitally Stained Confocal Microscopy through Deep Learning.,MIDL
+None,Deep Reinforcement Learning for Subpixel Neural Tracking.,MIDL
+None,Learning joint lesion and tissue segmentation from task-specific hetero-modal datasets.,MIDL
+None,Unsupervisedly Training GANs for Segmenting Digital Pathology with Automatically Generated Annotations.,MIDL
+None,Transfer Learning by Adaptive Merging of Multiple Models.,MIDL
+None,Assessing Knee OA Severity with CNN attention-based end-to-end architectures.,MIDL
+None,Iterative learning to make the most of unlabeled and quickly obtained labeled data in histology.,MIDL
+None,Generative Image Translation for Data Augmentation of Bone Lesion Pathology.,MIDL
+None,Cluster Analysis in Latent Space: Identifying Personalized Aortic Valve Prosthesis Shapes using Deep Representations.,MIDL
+None,Sparse Structured Prediction for Semantic Edge Detection in Medical Images.,MIDL
+None,Exclusive Independent Probability Estimation using Deep 3D Fully Convolutional DenseNets: Application to IsoIntense Infant Brain MRI Segmentation.,MIDL
+None,Dynamic MRI Reconstruction with Motion-Guided Network.,MIDL
+None,Boundary loss for highly unbalanced segmentation.,MIDL
+None,Neural Processes Mixed-Effect Models for Deep Normative Modeling of Clinical Neuroimaging Data.,MIDL
+None,Capturing Single-Cell Phenotypic Variation via Unsupervised Representation Learning.,MIDL
+None,DavinciGAN: Unpaired Surgical Instrument Translation for Data Augmentation.,MIDL
+None,Dense Segmentation in Selected Dimensions: Application to Retinal Optical Coherence Tomography.,MIDL
+None,Dynamic Pacemaker Artifact Removal (DyPAR) from CT Data using CNNs.,MIDL
+None,Group-Attention Single-Shot Detector (GA-SSD): Finding Pulmonary Nodules in Large-Scale CT Images.,MIDL
+None,A novel segmentation framework for uveal melanoma in magnetic resonance imaging based on class activation maps.,MIDL
+None,High-quality segmentation of low quality cardiac MR images using k-space artefact correction.,MIDL
+None,Weakly Supervised Deep Nuclei Segmentation using Points Annotation in Histopathology Images.,MIDL
+None,Joint Learning of Brain Lesion and Anatomy Segmentation from Heterogeneous Datasets.,MIDL
+None,Learning with Multitask Adversaries using Weakly Labelled Data for Semantic Segmentation in Retinal Images.,MIDL
+None,MRI k-Space Motion Artefact Augmentation: Model Robustness and Task-Specific Uncertainty.,MIDL
+None,A Hybrid Dual Domain Cascade of Convolutional Neural Networks for Magnetic Resonance Image Reconstruction.,MIDL
+None,3D multirater RCNN for multimodal multiclass detection and characterisation of extremely small objects.,MIDL
+None,XLSor: A Robust and Accurate Lung Segmentor on Chest X-Rays Using Criss-Cross Attention and Customized Radiorealistic Abnormalities Generation.,MIDL
+None,Prediction of Disease Progression in Multiple Sclerosis Patients using Deep Learning Analysis of MRI Data.,MIDL
+None,Learning beamforming in ultrasound imaging.,MIDL
+None,Preface.,MIDL
+None,Adversarial Pseudo Healthy Synthesis Needs Pathology Factorization.,MIDL
+None,VOCA: Cell Nuclei Detection In Histopathology Images By Vector Oriented Confidence Accumulation.,MIDL
+None,Unsupervised Lesion Detection via Image Restoration with a Normative Prior.,MIDL
+None,Deep Learning Approach to Semantic Segmentation in 3D Point Cloud Intra-oral Scans of Teeth.,MIDL
+None,SPDA: Superpixel-based Data Augmentation for Biomedical Image Segmentation.,MIDL
+None,CARE: Class Attention to Regions of Lesion for Classification on Imbalanced Data.,MIDL

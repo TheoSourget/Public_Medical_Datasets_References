@@ -52,7 +52,7 @@ class PMLRSpider(scrapy.Spider):
         try:
             # path = response.url.split('/')[-1]
             if "Preface" not in response.meta['title']:
-                title = response.meta['title']+".pdf"
+                title = response.meta['title'].replace("/"," ")+".pdf"
                 self.logger.info('Saving PDF %s', title)
                 with open(f"../../../../Results/extraction/fulltext/{title}", 'wb') as f:
                     f.write(response.body)

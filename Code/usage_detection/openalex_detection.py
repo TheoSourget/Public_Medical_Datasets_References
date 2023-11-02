@@ -1,7 +1,7 @@
 import requests
 import numpy as np
 import csv
-
+import re
 
 def doi_to_openAlexId(doi):
     """
@@ -80,12 +80,12 @@ def abstract_extraction(datasets_info,papers_info):
         abstract = paper["abstract"]
         for ds_name in datasets_info:
             paper_ds_abstract[ds_name] = False
-            if ds_name in abstract:
+            if re.search(f"(?<![^_\\W]){ds_name}(?![^_\\s\\d\\.\\),'])",abstract):
                 paper_ds_abstract[ds_name] = True
             else:    
                 aliases = datasets_info[ds_name]["aliases"]
                 for alias in aliases:
-                    if alias in abstract:
+                    if re.search(f"(?<![^_\\W]){alias}(?![^_\\s\\d\\.\\),'])",abstract):
                         paper_ds_abstract[ds_name] = True
                         break
         papers_abstract_citation.append(paper_ds_abstract)
@@ -105,7 +105,7 @@ def abstract_extraction(datasets_info,papers_info):
 def main():
     datasets_info = load_datasets_info()
     papers_info = load_openalex_extraction_results()
-    papers_datasets_reference = reference_extraction(datasets_info,papers_info)
+    #papers_datasets_reference = reference_extraction(datasets_info,papers_info)
     papers_abstract_reference = abstract_extraction(datasets_info,papers_info)
 
     
