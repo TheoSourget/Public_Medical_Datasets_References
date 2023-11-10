@@ -30,9 +30,9 @@ def load_datasets_info():
         ds_reader = csv.DictReader(ds_csv)
         for ds in ds_reader:
             datasets_info[ds["name"]] = {
-                                            "doi":ds["doi"],
+                                            "doi":ds["doi"].split(","),
                                             "aliases":ds["aliases"].split(","),
-                                            "openalex_id":doi_to_openAlexId(ds["doi"])
+                                            "openalex_id":[doi_to_openAlexId(doi) for doi in ds["doi"].split(",")]
                                          }
     return datasets_info
 
@@ -50,16 +50,24 @@ def load_openalex_extraction_results():
     return papers_info
 
 def reference_extraction(datasets_info,papers_info):
-    opanalexID_to_name = {datasets_info[ds_name]["openalex_id"]:ds_name for ds_name in datasets_info}
+    opanalexID_to_name = {}
+    for ds_name in datasets_info:
+        for id in datasets_info[ds_name]["openalex_id"]:
+            opanalexID_to_name[id] = ds_name
+    # opanalexID_to_name = {
+    #     datasets_info[ds_name]["openalex_id"]:ds_name for ds_name in datasets_info
+    # }
+    
     oa_IDs = set(opanalexID_to_name.keys())
     papers_datasets_reference = []
     for paper in papers_info:
         paper_ds_reference = {"doi":paper["doi"],"name":paper["title"]}
+        for ds_name in datasets_info:
+            paper_ds_reference[ds_name] = False
         for oa_id in oa_IDs:
             if oa_id in paper["references"]:
                 paper_ds_reference[opanalexID_to_name[oa_id]] = True
-            else:
-                paper_ds_reference[opanalexID_to_name[oa_id]] = False
+            
         papers_datasets_reference.append(paper_ds_reference)
     
     with open("./Results/extraction/oa_papers_datasets_reference.csv","w",newline="") as ao_ds_ref:
@@ -105,7 +113,7 @@ def abstract_extraction(datasets_info,papers_info):
 def main():
     datasets_info = load_datasets_info()
     papers_info = load_openalex_extraction_results()
-    #papers_datasets_reference = reference_extraction(datasets_info,papers_info)
+    papers_datasets_reference = reference_extraction(datasets_info,papers_info)
     papers_abstract_reference = abstract_extraction(datasets_info,papers_info)
 
     

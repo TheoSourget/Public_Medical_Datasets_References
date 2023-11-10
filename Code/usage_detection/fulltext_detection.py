@@ -48,7 +48,7 @@ def main():
     ds_info = load_datasets_info()
 
     #Load list of downloaded pdf 
-    papers_pdf_path = glob.glob("./Results/extraction/fulltext/INSIDE: Steering Spatial Attention with Non-imaging Information in CNNs*")
+    papers_pdf_path = glob.glob("./Results/extraction/fulltext/*.pdf")
     data_csv = []
     
     print("Search in abstract started")
@@ -59,34 +59,34 @@ def main():
         search_res["name"] = paper_name
         data_csv.append(search_res)
     
-    # with open("./Results/extraction/fulltext_datasets_abstract.csv","w",newline="") as ft_ds_ref:
-    #     fields = ["name"]
-    #     fields += [ds_name for ds_name in ds_info]
+    with open("./Results/extraction/fulltext_datasets_abstract.csv","w",newline="") as ft_ds_ref:
+        fields = ["name"]
+        fields += [ds_name for ds_name in ds_info]
         
-    #     writer = csv.DictWriter(ft_ds_ref, fieldnames=fields)
-    #     # Write the header row (column names)
-    #     writer.writeheader()
-    #     for paper in data_csv:
-    #         writer.writerow(paper)
+        writer = csv.DictWriter(ft_ds_ref, fieldnames=fields)
+        # Write the header row (column names)
+        writer.writeheader()
+        for paper in data_csv:
+            writer.writerow(paper)
     
-    # data_csv = []
-    # print("Search in references started")
-    # for paper in tqdm(papers_pdf_path):
-    #     paper_name = paper.split("/")[-1].removesuffix("PDF")
-    #     #Get the abstract part
-    #     search_res = search_dataset_in_section(paper,"references",ds_info,"title")
-    #     search_res["name"] = paper_name
-    #     data_csv.append(search_res)
+    data_csv = []
+    print("Search in references started")
+    for paper in tqdm(papers_pdf_path):
+        paper_name = paper.split("/")[-1].removesuffix("PDF")
+        #Get the abstract part
+        search_res = search_dataset_in_section(paper,"references",ds_info,"title")
+        search_res["name"] = paper_name
+        data_csv.append(search_res)
             
-    # with open("./Results/extraction/fulltext_datasets_references.csv","w",newline="") as ft_ds_ref:
-    #     fields = ["name"]
-    #     fields += [ds_name for ds_name in ds_info]
+    with open("./Results/extraction/fulltext_datasets_references.csv","w",newline="") as ft_ds_ref:
+        fields = ["name"]
+        fields += [ds_name for ds_name in ds_info]
         
-    #     writer = csv.DictWriter(ft_ds_ref, fieldnames=fields)
-    #     # Write the header row (column names)
-    #     writer.writeheader()
-    #     for paper in data_csv:
-    #         writer.writerow(paper)
+        writer = csv.DictWriter(ft_ds_ref, fieldnames=fields)
+        # Write the header row (column names)
+        writer.writeheader()
+        for paper in data_csv:
+            writer.writerow(paper)
     
     # data_csv = []
     # print("Search in results started")
@@ -107,24 +107,24 @@ def main():
     #     for paper in data_csv:
     #         writer.writerow(paper)
 
-    # data_csv = []
-    # print("Search in method started")
-    # for paper in tqdm(papers_pdf_path):
-    #     paper_name = paper.split("/")[-1].removesuffix("PDF")
-    #     #Get the abstract part
-    #     search_res = search_dataset_in_section(paper,"method",ds_info)
-    #     search_res["name"] = paper_name
-    #     data_csv.append(search_res)
+    data_csv = []
+    print("Search in method started")
+    for paper in tqdm(papers_pdf_path):
+        paper_name = paper.split("/")[-1].removesuffix("PDF")
+        #Get the abstract part
+        search_res = search_dataset_in_section(paper,"method",ds_info)
+        search_res["name"] = paper_name
+        data_csv.append(search_res)
             
-    # with open("./Results/extraction/fulltext_datasets_method.csv","w",newline="") as ft_ds_ref:
-    #     fields = ["name"]
-    #     fields += [ds_name for ds_name in ds_info]
+    with open("./Results/extraction/fulltext_datasets_method.csv","w",newline="") as ft_ds_ref:
+        fields = ["name"]
+        fields += [ds_name for ds_name in ds_info]
         
-    #     writer = csv.DictWriter(ft_ds_ref, fieldnames=fields)
-    #     # Write the header row (column names)
-    #     writer.writeheader()
-    #     for paper in data_csv:
-    #         writer.writerow(paper)
+        writer = csv.DictWriter(ft_ds_ref, fieldnames=fields)
+        # Write the header row (column names)
+        writer.writeheader()
+        for paper in data_csv:
+            writer.writerow(paper)
 
 if __name__ == "__main__":
     main()

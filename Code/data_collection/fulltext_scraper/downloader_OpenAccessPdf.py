@@ -13,7 +13,7 @@ def main():
     base_path = "./Results/extraction/fulltext/"
     for title,paper_url in zip(papers_info["title"],papers_info["fulltext_link"]):
         file_path = f"{base_path}{title.replace('/',' ')}.pdf"
-        if file_path not in downloaded_papers :
+        if file_path not in downloaded_papers:
             try:
                 r_fulltext = requests.get(paper_url,allow_redirects=True,timeout=10)
                 pdf_content = r_fulltext.content

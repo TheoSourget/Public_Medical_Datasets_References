@@ -8,6 +8,7 @@ From root directory:
 """
 import requests
 import csv
+import time
 
 def gather_for_venue(venue_name,api_link,start_year,end_year):
     """
@@ -32,12 +33,13 @@ def gather_for_venue(venue_name,api_link,start_year,end_year):
             r_json = request.json()
             if r_json["result"]["hits"]["@sent"] != '0':
                 for paper in r_json["result"]["hits"]["hit"]:
-                    if ("doi" not in paper["info"] and "title" not in paper["info"]) or int(paper["info"]["year"]) <= start_year  or int(paper["info"]["year"]) >= end_year or paper["info"]["venue"] != venue_name:
+                    if ("doi" not in paper["info"] and "title" not in paper["info"]) or int(paper["info"]["year"]) < start_year  or int(paper["info"]["year"]) > end_year or paper["info"]["venue"] != venue_name:
                         continue
                     
                     title = paper["info"].get("title","None")
                     title = title.replace(",","")
                     title = title.replace("\n","")
+                    title = title.removesuffix(".")
                     year = paper["info"].get("year","None")
                     venue = paper["info"].get("venue","None")
                     doi = paper["info"].get("doi","None")
@@ -49,6 +51,15 @@ def gather_for_venue(venue_name,api_link,start_year,end_year):
                 indice_paper += 1000
             else:
                 nextPage = False
+            
+            #To follow API guidelines to not send too much request in a short amount of time (https://dblp.org/faq/1474706.html)
+            time.sleep(2)
+        elif request.status_code == 429:
+            print("TOO MANY REQUEST RETRY LATER")
+            nextPage = False
+        else:
+            print(f"ERROR {request.status_code} DURING REQUEST RETRY LATER!")
+            nextPage = False
     return lst_paper
 
 def main():
