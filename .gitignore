@@ -1,3 +1,6 @@
 /Results/extraction/fulltext/*
-/Resources/documents/report.md
+/Results/folds/detect/*
+/Results/folds/no_detect/*
+/Results/extraction/grobid_extraction/*
 **/__pycache__
+/Resources/documents/report.md

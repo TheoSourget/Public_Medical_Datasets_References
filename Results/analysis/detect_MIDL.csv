@@ -1,0 +1,51 @@
+name
+Adversarial Pseudo Healthy Synthesis Needs Pathology Factorization.
+Towards multi-sequence MR image recovery from undersampled k-space data.
+HAD-Net: A Hierarchical Adversarial Knowledge Distillation Network for Improved Enhanced Tumour Segmentation Without Post-Contrast Images.
+A regularization term for slide correlation reduction in whole slide image analysis with deep learning.
+Uncertainty-based Graph Convolutional Networks for Organ Segmentation Refinement.
+Is it Possible to Predict MGMT Promoter Methylation from Brain Tumor MRI Scans using Deep Learning Models?.
+Continual Learning for Domain Adaptation in Chest X-ray Classification.
+Bridging the Gap: Point Clouds for Merging Neurons in Connectomics.
+Transfer Learning by Adaptive Merging of Multiple Models.
+Digitally Stained Confocal Microscopy through Deep Learning.
+SMU-Net: Style matching U-Net for brain tumor segmentation with missing modalities.
+End-to-end learning of convolutional neural net and dynamic programming for left ventricle segmentation.
+Untangling the Small Intestine in 3D cine-MRI using Deep Stochastic Tracking.
+Addressing The False Negative Problem of Deep Learning MRI Reconstruction Models by Adversarial Attacks and Robust Training.
+Mutual information deep regularization for semi-supervised segmentation.
+Siamese Content Loss Networks for Highly Imbalanced Medical Image Segmentation.
+Automatic Diagnosis of Pulmonary Embolism Using an Attention-guided Framework: A Large-scale Study.
+Memory-efficient Segmentation of High-resolution Volumetric MicroCT Images.
+Deep learning-based retinal vessel segmentation with cross-modal evaluation.
+Joint Learning of Vessel Segmentation and Artery Vein Classification with Post-processing.
+Joint Learning of Brain Lesion and Anatomy Segmentation from Heterogeneous Datasets.
+Bounding boxes for weakly supervised segmentation: Global constraints get close to full supervision.
+Stain-Transforming Cycle-Consistent Generative Adversarial Networks for Improved Segmentation of Renal Histopathology.
+Automatic Segmentation of Head and Neck Tumors and Nodal Metastases in PET-CT scans.
+On the Pitfalls of Using the Residual Error as Anomaly Score.
+How Distance Transform Maps Boost Segmentation CNNs: An Empirical Study.
+TorchXRayVision: A library of chest X-ray datasets and models.
+Learning with Multitask Adversaries using Weakly Labelled Data for Semantic Segmentation in Retinal Images.
+4D Semantic Cardiac Magnetic Resonance Image Synthesis on XCAT Anatomical Model.
+Weakly Supervised Volumetric Segmentation via Self-taught Shape Denoising Model.
+Red-GAN: Attacking class imbalance via conditioned generation. Yet another medical imaging perspective..
+On the limits of cross-domain generalization in automated X-ray prediction.
+3D multirater RCNN for multimodal multiclass detection and characterisation of extremely small objects.
+Deep Learning Approach to Semantic Segmentation in 3D Point Cloud Intra-oral Scans of Teeth.
+3D-RADNet: Extracting labels from DICOM metadata for training general medical domain deep 3D convolution neural networks.
+Feedback Graph Attention Convolutional Network for MR Images Enhancement by Exploring Self-Similarity Features.
+Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer.
+KD-MRI: A knowledge distillation framework for image reconstruction and image restoration in MRI workflow.
+Unsupervised Lesion Detection via Image Restoration with a Normative Prior.
+Learning Morphological Feature Perturbations for Calibrated Semi-Supervised Segmentation.
+Improving MRI-based Knee Disorder Diagnosis with Pyramidal Feature Details.
+Beyond pixel-wise supervision for segmentation: A few global shape descriptors might be surprisingly good!.
+Cluster-to-Conquer: A Framework for End-to-End Multi-Instance Learning for Whole Slide Image Classification.
+Knee Injury Detection using MRI with Efficiently-Layered Network (ELNet).
+Gifsplanation via Latent Shift: A Simple Autoencoder Approach to Counterfactual Generation for Chest X-rays.
+Extending Unsupervised Neural Image Compression With Supervised Multitask Learning.
+Diffusion Models for Implicit Image Segmentation Ensembles.
+Feature-based image registration in structured light endoscopy.
+Guided Filter Regularization for Improved Disentanglement of Shape and Appearance in Diffeomorphic Autoencoders.
+Deep Hierarchical Multi-label Classification of Chest X-ray Images.

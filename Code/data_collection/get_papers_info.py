@@ -55,8 +55,12 @@ def query_openalex_by_title(title,venue):
         references = r_json['referenced_works']
         if len(references) == 0:
             references = "None"
+        if not r_json["doi"]:
+            doi = "None"
+        else:
+            doi = r_json["doi"]
         paper_infos = {
-                "doi":"None",
+                "doi":doi,
                 "title":title,
                 "venue":venue,
                 "year":r_json["publication_year"],

@@ -1,0 +1,68 @@
+name
+Robust Anatomical Landmark Detection for MR Brain Image Registration.
+Synthesizing Multi-tracer PET Images for Alzheimer’s Disease Patients Using a 3D Unified Anatomy-Aware Cyclic Adversarial Network.
+You Should Use Regression to Detect Cells.
+AutoSNAP: Automatically Learning Neural Architectures for Instrument Pose Estimation.
+Hierarchical Parcellation of the Cerebellum.
+Joint Motion Correction and Super Resolution for Cardiac Segmentation via Latent Optimisation.
+Ear Cartilage Inference for Reconstructive Surgery with Convolutional Mesh Autoencoders.
+Denoising of 3D MR Images Using a Voxel-Wise Hybrid Residual MLP-CNN Model to Improve Small Lesion Diagnostic Confidence.
+Classification of MRI under the Presence of Disease Heterogeneity using Multi-Task Learning: Application to Bipolar Disorder.
+Instance-Aware Self-supervised Learning for Nuclei Segmentation.
+Orientation-Guided Graph Convolutional Network for Bone Surface Segmentation.
+Test-Time Adaptation with Calibration of Medical Image Classification Nets for Label Distribution Shift.
+Efficient Bayesian Uncertainty Estimation for nnU-Net.
+Light-weight Spatio-Temporal Graphs for Segmentation and Ejection Fraction Prediction in Cardiac Ultrasound.
+Segmentation of Cerebrovascular Pathologies in Stroke Patients with Spatial and Shape Priors.
+Degenerative Adversarial NeuroImage Nets: Generating Images that Mimic Disease Progression.
+Fully Automatic and Real-Time Catheter Segmentation in X-Ray Fluoroscopy.
+Semi-Supervised and Active Learning for Automatic Segmentation of Crohn’s Disease.
+Computer-Aided Detection and Quantification of Intracranial Aneurysms.
+Poisson2Sparse: Self-supervised Poisson Denoising from a Single Image.
+Meta-hallucinator: Towards Few-Shot Cross-Modality Cardiac Image Segmentation.
+A Statistical Model for Smooth Shapes in Kendall Shape Space.
+Deep Variational Networks with Exponential Weighting for Learning Computed Tomography.
+ImageCHD: A 3D Computed Tomography Image Dataset for Classification of Congenital Heart Disease.
+Interactive Segmentation via Deep Learning and B-Spline Explicit Active Surfaces.
+Combining Surface and Fiber Geometry: An Integrated Approach to Brain Morphology.
+Randomized Denoising Autoencoders for Smaller and Efficient Imaging Based AD Clinical Trials.
+Towards Whole Placenta Segmentation at Late Gestation Using Multi-view Ultrasound Images.
+Sparse Appearance Learning Based Automatic Coronary Sinus Segmentation in CTA.
+LambdaUNet: 2.5D Stroke Lesion Segmentation of Diffusion-Weighted MR Images.
+Domain Adaptive Nuclei Instance Segmentation and Classification via Category-Aware Feature Alignment and Pseudo-Labelling.
+Consistency-Preserving Visual Question Answering in Medical Imaging.
+TransFusion: Multi-view Divergent Fusion for Medical Image Segmentation with Transformers.
+Swin Deformable Attention U-Net Transformer (SDAUT) for Explainable Fast MRI.
+LensID: A CNN-RNN-Based Framework Towards Lens Irregularity Detection in Cataract Surgery Videos.
+Training Medical Image Analysis Systems like Radiologists.
+Minimizing Joint Risk of Mislabeling for Iterative Patch-Based Label Fusion.
+A Multi-armed Bandit to Smartly Select a Training Set from Big Medical Data.
+Multi-compound Transformer for Accurate Biomedical Image Segmentation.
+Exploiting Enclosing Membranes and Contextual Cues for Mitochondria Segmentation.
+Multi-organ Segmentation Based on Spatially-Divided Probabilistic Atlas from 3D Abdominal CT Images.
+Multi-context Deep Network for Angle-Closure Glaucoma Screening in Anterior Segment OCT.
+Efficient Convex Optimization Approach to 3D Non-rigid MR-TRUS Registration.
+Detecting Outliers with Poisson Image Interpolation.
+Heterogeneity Wavelet Kinetics from DCE-MRI for Classifying Gene Expression Based Breast Cancer Recurrence Risk.
+Contrastive Rendering for Ultrasound Image Segmentation.
+Efficient and Phase-Aware Video Super-Resolution for Cardiac MRI.
+Robust Intraoperative US Probe Tracking Using a Monocular Endoscopic Camera.
+Accounting for Dependencies in Deep Learning Based Multiple Instance Learning for Whole Slide Imaging.
+Scalable Neural Architecture Search for 3D Medical Image Segmentation.
+DS$$^3$$-Net: Difficulty-Perceived Common-to-T1ce Semi-supervised Multimodal MRI Synthesis Network.
+Identifying Connectome Module Patterns via New Balanced Multi-graph Normalized Cut.
+Enhancing Clinical MRI Perfusion Maps with Data-Driven Maps of Complementary Nature for Lesion Outcome Prediction.
+Surgical Tool Tracking and Pose Estimation in Retinal Microsurgery.
+Generating Pareto Optimal Dose Distributions for Radiation Therapy Treatment Planning.
+Asymmetrical Multi-task Attention U-Net for the Segmentation of Prostate Bed in CT Image.
+Multiple Landmark Detection Using Multi-agent Reinforcement Learning.
+Patcher: Patch Transformers with Mixture of Experts for Precise Medical Image Segmentation.
+You only Learn Once: Universal Anatomical Landmark Detection.
+A Metamorphosis Distance for Embryonic Cardiac Action Potential Interpolation and Classification.
+Pathological Site Retargeting under Tissue Deformation Using Geometrical Association and Tracking.
+Video-Based Computer Aided Arthroscopy for Patient Specific Reconstruction of the Anterior Cruciate Ligament.
+CS-Net: Channel and Spatial Attention Network for Curvilinear Structure Segmentation.
+Overlapping Replicator Dynamics for Functional Subnetwork Identification.
+Reliable Liver Fibrosis Assessment from Ultrasound Using Global Hetero-Image Fusion and View-Specific Parameterization.
+Rethinking Anticipation Tasks: Uncertainty-Aware Anticipation of Sparse Surgical Instrument Usage for Context-Aware Assistance.
+Temporal HeartNet: Towards Human-Level Automatic Analysis of Fetal Cardiac Screening Video.
