@@ -8,7 +8,7 @@ from scrapy.crawler import CrawlerProcess
 from pydispatch import dispatcher
 """
 Exemple of usage
-scrapy crawl pmlr -a start_url=143,121
+scrapy crawl pmlr -a start_url=172,143,121,102
 143 and 121 being the volume number of the venue
 """
 
@@ -54,7 +54,7 @@ class PMLRSpider(scrapy.Spider):
             if "Preface" not in response.meta['title']:
                 title = response.meta['title'].replace("/"," ").removesuffix(".")+".pdf"
                 self.logger.info('Saving PDF %s', title)
-                with open(f"../../../../Results/extraction/fulltext/{title}", 'wb') as f:
+                with open(f"../../../../Results/extraction/fulltext2/{title}", 'wb') as f:
                     f.write(response.body)
         except Exception as e:
             print(e)
