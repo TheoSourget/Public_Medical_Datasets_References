@@ -1,0 +1,1157 @@
+doc_name,label1,label2,value
+Can You Trust Predictive Uncertainty Under Real Dataset Shifts in Digital Pathology?,CAMELYON,In Method,True
+Graph-Text Multi-Modal Pre-training for Medical Representation Learning,MIMIC,In Abstract,True
+Graph-Text Multi-Modal Pre-training for Medical Representation Learning,MIMIC,Elsewhere,True
+Graph-Text Multi-Modal Pre-training for Medical Representation Learning,MIMIC,In Method,True
+Graph-Text Multi-Modal Pre-training for Medical Representation Learning,MIMIC,In Figure,True
+Generation of 3D Brain MRI Using Auto-Encoding Generative Adversarial Networks,BRATS,In Table,True
+ASC-Net: Adversarial-Based Selective Network for Unsupervised Anomaly Segmentation,BRATS,In Abstract,True
+ASC-Net: Adversarial-Based Selective Network for Unsupervised Anomaly Segmentation,BRATS,Elsewhere,True
+ASC-Net: Adversarial-Based Selective Network for Unsupervised Anomaly Segmentation,BRATS,In Figure,True
+Analyzing the role of model uncertainty for electronic health records,MIMIC,Elsewhere,True
+Analyzing the role of model uncertainty for electronic health records,MIMIC,In Method,True
+Analyzing the role of model uncertainty for electronic health records,MIMIC,In Figure,True
+Trustworthy machine learning for health care,Chexpert,In Method,True
+Trustworthy machine learning for health care,Chexpert,Elsewhere,True
+Trustworthy machine learning for health care,Chexpert,In Table,True
+Group-Attention Single-Shot Detector (GA-SSD): Finding Pulmonary Nodules in Large-Scale CT Images,LIDC-IDRI,Elsewhere,True
+Group-Attention Single-Shot Detector (GA-SSD): Finding Pulmonary Nodules in Large-Scale CT Images,LIDC-IDRI,In Method,True
+Deep Hierarchical Multi-label Classification of Chest X-ray Images,Chexpert,Elsewhere,True
+Primary Tumor and Inter-Organ Augmentations for Supervised Lymph Node Colon Adenocarcinoma Metastasis Detection,CAMELYON,Elsewhere,True
+Quantifying the Value of Lateral Views in Deep Learning for Chest X-rays,Chexpert,Elsewhere,True
+Quantifying the Value of Lateral Views in Deep Learning for Chest X-rays,PadChest,In Abstract,True
+Quantifying the Value of Lateral Views in Deep Learning for Chest X-rays,PadChest,Elsewhere,True
+Quantifying the Value of Lateral Views in Deep Learning for Chest X-rays,PadChest,In Method,True
+Quantifying the Value of Lateral Views in Deep Learning for Chest X-rays,PadChest,In Figure,True
+Quantifying the Value of Lateral Views in Deep Learning for Chest X-rays,MIMIC,Elsewhere,True
+Co-learning Semantic-Aware Unsupervised Segmentation for Pathological Image Registration,BRATS,In Method,True
+Co-learning Semantic-Aware Unsupervised Segmentation for Pathological Image Registration,BRATS,In Table,True
+A Robust Volumetric Transformer for Accurate 3D Tumor Segmentation,BRATS,In Abstract,True
+A Robust Volumetric Transformer for Accurate 3D Tumor Segmentation,BRATS,Elsewhere,True
+A Robust Volumetric Transformer for Accurate 3D Tumor Segmentation,BRATS,In Table,True
+Explaining Chest X-Ray Pathologies in Natural Language,Chexpert,In Method,True
+Explaining Chest X-Ray Pathologies in Natural Language,MIMIC,In Abstract,True
+Explaining Chest X-Ray Pathologies in Natural Language,MIMIC,Elsewhere,True
+Explaining Chest X-Ray Pathologies in Natural Language,MIMIC,In Method,True
+Explaining Chest X-Ray Pathologies in Natural Language,MIMIC,In Table,True
+Automatic Dual-View Mass Detection in Full-Field Digital Mammograms,CBIS-DDSM,Elsewhere,True
+CAiD: Context-Aware Instance Discrimination for Self-supervised Learning in Medical Imaging,Chexpert,In Method,True
+CAiD: Context-Aware Instance Discrimination for Self-supervised Learning in Medical Imaging,Chexpert,In Table,True
+CAiD: Context-Aware Instance Discrimination for Self-supervised Learning in Medical Imaging,Chexpert,Elsewhere,True
+Incompressible Image Registration Using Divergence-Conforming B-Splines,STACOM’11,In Abstract,True
+Incompressible Image Registration Using Divergence-Conforming B-Splines,STACOM’11,Elsewhere,True
+Incompressible Image Registration Using Divergence-Conforming B-Splines,STACOM’11,In Method,True
+ACN: Adversarial Co-training Network for Brain Tumor Segmentation with Missing Modalities,BRATS,In Abstract,True
+ACN: Adversarial Co-training Network for Brain Tumor Segmentation with Missing Modalities,BRATS,In Method,True
+ACN: Adversarial Co-training Network for Brain Tumor Segmentation with Missing Modalities,BRATS,Elsewhere,True
+ACN: Adversarial Co-training Network for Brain Tumor Segmentation with Missing Modalities,BRATS,In Figure,True
+TransBTS: Multimodal Brain Tumor Segmentation Using Transformer,BRATS,In Abstract,True
+TransBTS: Multimodal Brain Tumor Segmentation Using Transformer,BRATS,Elsewhere,True
+TransBTS: Multimodal Brain Tumor Segmentation Using Transformer,BRATS,In Method,True
+TransBTS: Multimodal Brain Tumor Segmentation Using Transformer,BRATS,In Figure,True
+TransBTS: Multimodal Brain Tumor Segmentation Using Transformer,BRATS,In Table,True
+Efficient Bayesian Uncertainty Estimation for nnU-Net,ACDC,In Abstract,True
+Efficient Bayesian Uncertainty Estimation for nnU-Net,ACDC,In Method,True
+Efficient Bayesian Uncertainty Estimation for nnU-Net,ACDC,In Table,True
+Efficient Bayesian Uncertainty Estimation for nnU-Net,ACDC,In Footnote,True
+Efficient Bayesian Uncertainty Estimation for nnU-Net,M&Ms,In Footnote,True
+Factorised Spatial Representation Learning: Application in Semi-supervised Myocardial Segmentation,ACDC,In Abstract,True
+Factorised Spatial Representation Learning: Application in Semi-supervised Myocardial Segmentation,ACDC,In Method,True
+Factorised Spatial Representation Learning: Application in Semi-supervised Myocardial Segmentation,ACDC,In Figure,True
+Factorised Spatial Representation Learning: Application in Semi-supervised Myocardial Segmentation,ACDC,In Table,True
+DA-VSR: Domain Adaptable Volumetric Super-Resolution for Medical Images,LIDC-IDRI,Elsewhere,True
+Suppressing Poisoning Attacks on Federated Learning for Medical Imaging,Chexpert,In Abstract,True
+Suppressing Poisoning Attacks on Federated Learning for Medical Imaging,Chexpert,Elsewhere,True
+Suppressing Poisoning Attacks on Federated Learning for Medical Imaging,Chexpert,In Method,True
+Suppressing Poisoning Attacks on Federated Learning for Medical Imaging,Chexpert,In Figure,True
+Suppressing Poisoning Attacks on Federated Learning for Medical Imaging,Chexpert,In Table,True
+A Comprehensive Study of Modern Architectures and Regularization Approaches on CheXpert5000,Chexpert,In Abstract,True
+A Comprehensive Study of Modern Architectures and Regularization Approaches on CheXpert5000,Chexpert,Elsewhere,True
+A Comprehensive Study of Modern Architectures and Regularization Approaches on CheXpert5000,Chexpert,In Method,True
+A Comprehensive Study of Modern Architectures and Regularization Approaches on CheXpert5000,Chexpert,In Figure,True
+Online Reflective Learning for Robust Medical Image Segmentation,M&Ms,Elsewhere,True
+Online Reflective Learning for Robust Medical Image Segmentation,M&Ms,In Method,True
+Online Reflective Learning for Robust Medical Image Segmentation,M&Ms,In Table,True
+Multi-task Attention-Based Semi-supervised Learning for Medical Image Segmentation,BRATS,In Method,True
+Multi-task Attention-Based Semi-supervised Learning for Medical Image Segmentation,BRATS,Elsewhere,True
+Multi-task Attention-Based Semi-supervised Learning for Medical Image Segmentation,BRATS,In Table,True
+Hierarchical Probabilistic Gabor and MRF Segmentation of Brain Tumours in MRI Volumes,BRATS,In Abstract,True
+Hierarchical Probabilistic Gabor and MRF Segmentation of Brain Tumours in MRI Volumes,BRATS,Elsewhere,True
+Hierarchical Probabilistic Gabor and MRF Segmentation of Brain Tumours in MRI Volumes,BRATS,In Method,True
+Hierarchical Probabilistic Gabor and MRF Segmentation of Brain Tumours in MRI Volumes,BRATS,In Table,True
+Positional Contrastive Learning for Volumetric Medical Image Segmentation,ACDC,Elsewhere,True
+Positional Contrastive Learning for Volumetric Medical Image Segmentation,ACDC,In Method,True
+Positional Contrastive Learning for Volumetric Medical Image Segmentation,ACDC,In Figure,True
+Positional Contrastive Learning for Volumetric Medical Image Segmentation,ACDC,In Table,True
+Brain Tumor Segmentation with Missing Modalities via Latent Multi-source Correlation Representation,BRATS,In Abstract,True
+Brain Tumor Segmentation with Missing Modalities via Latent Multi-source Correlation Representation,BRATS,In Method,True
+Brain Tumor Segmentation with Missing Modalities via Latent Multi-source Correlation Representation,BRATS,Elsewhere,True
+Brain Tumor Segmentation with Missing Modalities via Latent Multi-source Correlation Representation,BRATS,In Table,True
+Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks,LIDC-IDRI,In Abstract,True
+Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks,LIDC-IDRI,Elsewhere,True
+Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks,LIDC-IDRI,In Method,True
+Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks,LIDC-IDRI,In Figure,True
+Accurate Pulmonary Nodule Detection in Computed Tomography Images Using Deep Convolutional Neural Networks,LIDC-IDRI,In Table,True
+nnDetection: A Self-configuring Method for Medical Object Detection,LIDC-IDRI,In Abstract,True
+nnDetection: A Self-configuring Method for Medical Object Detection,LIDC-IDRI,Elsewhere,True
+nnDetection: A Self-configuring Method for Medical Object Detection,LIDC-IDRI,In Method,True
+nnDetection: A Self-configuring Method for Medical Object Detection,LIDC-IDRI,In Figure,True
+nnDetection: A Self-configuring Method for Medical Object Detection,PROSTATEx,In Method,True
+CLIP-Lung: Textual Knowledge-Guided Lung Nodule Malignancy Prediction,LIDC-IDRI,In Abstract,True
+CLIP-Lung: Textual Knowledge-Guided Lung Nodule Malignancy Prediction,LIDC-IDRI,Elsewhere,True
+CLIP-Lung: Textual Knowledge-Guided Lung Nodule Malignancy Prediction,LIDC-IDRI,In Method,True
+CLIP-Lung: Textual Knowledge-Guided Lung Nodule Malignancy Prediction,LIDC-IDRI,In Table,True
+Boosting Connectivity in Retinal Vessel Segmentation via a Recursive Semantics-Guided Network,DRIVE,In Method,True
+Boosting Connectivity in Retinal Vessel Segmentation via a Recursive Semantics-Guided Network,DRIVE,In Figure,True
+Boosting Connectivity in Retinal Vessel Segmentation via a Recursive Semantics-Guided Network,DRIVE,In Table,True
+Structure-Preserving Multi-domain Stain Color Augmentation Using Style-Transfer with Disentangled Representations,CAMELYON,In Method,True
+Structure-Preserving Multi-domain Stain Color Augmentation Using Style-Transfer with Disentangled Representations,CAMELYON,Elsewhere,True
+Learning Self-calibrated Optic Disc and Cup Segmentation from Multi-rater Annotations,MRNet,In Method,True
+Learning Self-calibrated Optic Disc and Cup Segmentation from Multi-rater Annotations,MRNet,In Table,True
+A regularization term for slide correlation reduction in whole slide image analysis with deep learning,CAMELYON,In Method,True
+Learning to Address Intra-segment Misclassification in Retinal Imaging,DRIVE,In Abstract,True
+Learning to Address Intra-segment Misclassification in Retinal Imaging,DRIVE,In Method,True
+Learning to Address Intra-segment Misclassification in Retinal Imaging,DRIVE,In Figure,True
+Learning to Address Intra-segment Misclassification in Retinal Imaging,DRIVE,In Table,True
+Interpretable Medical Image Classification Using Prototype Learning and Privileged Information,LIDC-IDRI,In Abstract,True
+Interpretable Medical Image Classification Using Prototype Learning and Privileged Information,LIDC-IDRI,Elsewhere,True
+Interpretable Medical Image Classification Using Prototype Learning and Privileged Information,LIDC-IDRI,In Method,True
+A Cross Saliency Approach to Asymmetry-Based Tumor Detection,BRATS,In Method,True
+A Cross Saliency Approach to Asymmetry-Based Tumor Detection,BRATS,In Figure,True
+Negative Evidence Matters in Interpretable Histology Image Classification,CAMELYON,In Abstract,True
+Negative Evidence Matters in Interpretable Histology Image Classification,CAMELYON,Elsewhere,True
+Negative Evidence Matters in Interpretable Histology Image Classification,CAMELYON,In Method,True
+Negative Evidence Matters in Interpretable Histology Image Classification,CAMELYON,In Figure,True
+Negative Evidence Matters in Interpretable Histology Image Classification,CAMELYON,In Table,True
+Combining Generative Models for Multifocal Glioma Segmentation and Registration,BRATS,In Abstract,True
+Combining Generative Models for Multifocal Glioma Segmentation and Registration,BRATS,Elsewhere,True
+Combining Generative Models for Multifocal Glioma Segmentation and Registration,BRATS,In Figure,True
+Combining Generative Models for Multifocal Glioma Segmentation and Registration,BRATS,In Table,True
+Deep Generative Model-Based Quality Control for Cardiac MRI Segmentation,ACDC,In Method,True
+Deep Generative Model-Based Quality Control for Cardiac MRI Segmentation,ACDC,In Figure,True
+Learning Shape Priors for Robust Cardiac MR Segmentation from Multi-view Images,ACDC,Elsewhere,True
+The OOD Blind Spot of Unsupervised Anomaly Detection,BRATS,Elsewhere,True
+The OOD Blind Spot of Unsupervised Anomaly Detection,BRATS,In Method,True
+The OOD Blind Spot of Unsupervised Anomaly Detection,BRATS,In Figure,True
+The OOD Blind Spot of Unsupervised Anomaly Detection,BRATS,In Table,True
+Collecting data when missingness is unknown: a method for improving model performance given under-reporting in patient populations,MIMIC,In Method,True
+Collecting data when missingness is unknown: a method for improving model performance given under-reporting in patient populations,MIMIC,Elsewhere,True
+Collecting data when missingness is unknown: a method for improving model performance given under-reporting in patient populations,MIMIC,In Table,True
+Boundary-Aware Fully Convolutional Network for Brain Tumor Segmentation,BRATS,In Abstract,True
+Boundary-Aware Fully Convolutional Network for Brain Tumor Segmentation,BRATS,Elsewhere,True
+Boundary-Aware Fully Convolutional Network for Brain Tumor Segmentation,BRATS,In Method,True
+Boundary-Aware Fully Convolutional Network for Brain Tumor Segmentation,BRATS,In Figure,True
+Boundary-Aware Fully Convolutional Network for Brain Tumor Segmentation,BRATS,In Table,True
+Improving MRI-based Knee Disorder Diagnosis with Pyramidal Feature Details,MRNet,Elsewhere,True
+Improving MRI-based Knee Disorder Diagnosis with Pyramidal Feature Details,MRNet,In Method,True
+Improving MRI-based Knee Disorder Diagnosis with Pyramidal Feature Details,MRNet,In Figure,True
+Improving MRI-based Knee Disorder Diagnosis with Pyramidal Feature Details,MRNet,In Table,True
+mmFormer: Multimodal Medical Transformer for Incomplete Multimodal Learning of Brain Tumor Segmentation,BRATS,In Abstract,True
+mmFormer: Multimodal Medical Transformer for Incomplete Multimodal Learning of Brain Tumor Segmentation,BRATS,Elsewhere,True
+mmFormer: Multimodal Medical Transformer for Incomplete Multimodal Learning of Brain Tumor Segmentation,BRATS,In Method,True
+Adapting Off-the-Shelf Source Segmenter for Target Medical Image Segmentation,BRATS,In Abstract,True
+Adapting Off-the-Shelf Source Segmenter for Target Medical Image Segmentation,BRATS,Elsewhere,True
+Adapting Off-the-Shelf Source Segmenter for Target Medical Image Segmentation,BRATS,In Method,True
+Deep learning-based retinal vessel segmentation with cross-modal evaluation,DRIVE,In Figure,True
+Deep learning-based retinal vessel segmentation with cross-modal evaluation,DRIVE,In Table,True
+Explaining COVID-19 and Thoracic Pathology Model Predictions by Identifying Informative Input Features,ChestX-Ray14,In Abstract,True
+Explaining COVID-19 and Thoracic Pathology Model Predictions by Identifying Informative Input Features,ChestX-Ray14,In Figure,True
+Explaining COVID-19 and Thoracic Pathology Model Predictions by Identifying Informative Input Features,ChestX-Ray14,In Table,True
+Towards Safe Deep Learning: Accurately Quantifying Biomarker Uncertainty in Neural Network Predictions,BRATS,In Method,True
+Towards Semantic Interpretation of Thoracic Disease and COVID-19 Diagnosis Models,Chexpert,In Abstract,True
+Towards Semantic Interpretation of Thoracic Disease and COVID-19 Diagnosis Models,Chexpert,Elsewhere,True
+Towards Semantic Interpretation of Thoracic Disease and COVID-19 Diagnosis Models,Chexpert,In Method,True
+Towards Semantic Interpretation of Thoracic Disease and COVID-19 Diagnosis Models,Chexpert,In Figure,True
+Test-Time Image-to-Image Translation Ensembling Improves Out-of-Distribution Generalization in Histopathology,CAMELYON,In Method,True
+Test-Time Image-to-Image Translation Ensembling Improves Out-of-Distribution Generalization in Histopathology,CAMELYON,Elsewhere,True
+Test-Time Image-to-Image Translation Ensembling Improves Out-of-Distribution Generalization in Histopathology,CAMELYON,In Figure,True
+Test-Time Image-to-Image Translation Ensembling Improves Out-of-Distribution Generalization in Histopathology,CAMELYON,In Table,True
+Efficient and Phase-Aware Video Super-Resolution for Cardiac MRI,ACDC,In Method,True
+TUNA-Net: Task-Oriented UNsupervised Adversarial Network for Disease Recognition in Cross-domain Chest X-rays,ChestX-Ray14,In Method,True
+INSIDE: Steering Spatial Attention with Non-imaging Information in CNNs,ACDC,In Abstract,True
+INSIDE: Steering Spatial Attention with Non-imaging Information in CNNs,ACDC,Elsewhere,True
+INSIDE: Steering Spatial Attention with Non-imaging Information in CNNs,ACDC,In Method,True
+INSIDE: Steering Spatial Attention with Non-imaging Information in CNNs,ACDC,In Figure,True
+INSIDE: Steering Spatial Attention with Non-imaging Information in CNNs,ACDC,In Table,True
+INSIDE: Steering Spatial Attention with Non-imaging Information in CNNs,ACDC,In Footnote,True
+3D Dilated Multi-fiber Network for Real-Time Brain Tumor Segmentation in MRI,BRATS,In Abstract,True
+3D Dilated Multi-fiber Network for Real-Time Brain Tumor Segmentation in MRI,BRATS,Elsewhere,True
+3D Dilated Multi-fiber Network for Real-Time Brain Tumor Segmentation in MRI,BRATS,In Method,True
+3D Dilated Multi-fiber Network for Real-Time Brain Tumor Segmentation in MRI,BRATS,In Table,True
+Knowledge Distillation from Multi-modal to Mono-modal Segmentation Networks,BRATS,In Abstract,True
+Knowledge Distillation from Multi-modal to Mono-modal Segmentation Networks,BRATS,Elsewhere,True
+Knowledge Distillation from Multi-modal to Mono-modal Segmentation Networks,BRATS,In Method,True
+Group Shift Pointwise Convolution for Volumetric Medical Image Segmentation,BRATS,In Abstract,True
+Group Shift Pointwise Convolution for Volumetric Medical Image Segmentation,BRATS,In Method,True
+Group Shift Pointwise Convolution for Volumetric Medical Image Segmentation,BRATS,In Table,True
+Group Shift Pointwise Convolution for Volumetric Medical Image Segmentation,PROMISE12,In Abstract,True
+Group Shift Pointwise Convolution for Volumetric Medical Image Segmentation,PROMISE12,In Method,True
+Group Shift Pointwise Convolution for Volumetric Medical Image Segmentation,PROMISE12,In Table,True
+Domain Composition and Attention for Unseen-Domain Generalizable Medical Image Segmentation,PROMISE12,In Method,True
+Domain-Adaptive 3D Medical Image Synthesis: An Efficient Unsupervised Approach,BRATS,In Method,True
+Multimodal Representation Learning via Maximization of Local Mutual Information,Chexpert,In Method,True
+Multimodal Representation Learning via Maximization of Local Mutual Information,MIMIC,In Method,True
+Biomechanics-Informed Neural Networks for Myocardial Motion Tracking in MRI,ACDC,In Method,True
+Biomechanics-Informed Neural Networks for Myocardial Motion Tracking in MRI,ACDC,In Table,True
+Is it Possible to Predict MGMT Promoter Methylation from Brain Tumor MRI Scans using Deep Learning Models?,BRATS,In Abstract,True
+Is it Possible to Predict MGMT Promoter Methylation from Brain Tumor MRI Scans using Deep Learning Models?,BRATS,In Method,True
+VisualCheXbert,Chexpert,Elsewhere,True
+VisualCheXbert,Chexpert,In Method,True
+VisualCheXbert,Chexpert,In Table,True
+VisualCheXbert,MIMIC,In Method,True
+VisualCheXbert,MIMIC,In Table,True
+Modality-Aware Mutual Learning for Multi-modal Medical Image Segmentation,BRATS,In Abstract,True
+Modality-Aware Mutual Learning for Multi-modal Medical Image Segmentation,BRATS,Elsewhere,True
+Modality-Aware Mutual Learning for Multi-modal Medical Image Segmentation,BRATS,In Method,True
+Evidence Localization for Pathology Images Using Weakly Supervised Learning,CAMELYON,Elsewhere,True
+Evidence Localization for Pathology Images Using Weakly Supervised Learning,CAMELYON,In Method,True
+Evidence Localization for Pathology Images Using Weakly Supervised Learning,CAMELYON,In Table,True
+Evidence Localization for Pathology Images Using Weakly Supervised Learning,CAMELYON,In Footnote,True
+3D-UCaps: 3D Capsules Unet for Volumetric Image Segmentation,LIDC-IDRI,In Abstract,True
+3D-UCaps: 3D Capsules Unet for Volumetric Image Segmentation,LIDC-IDRI,In Method,True
+3D-UCaps: 3D Capsules Unet for Volumetric Image Segmentation,LIDC-IDRI,In Table,True
+Reinforcement Learning Driven Intra-modal and Inter-modal Representation Learning for 3D Medical Image Classification,BRATS,In Method,True
+Reinforcement Learning Driven Intra-modal and Inter-modal Representation Learning for 3D Medical Image Classification,BRATS,In Table,True
+Self-supervised Out-of-distribution Detection for Cardiac CMR Segmentation,Sunnybrook,Elsewhere,True
+Self-supervised Out-of-distribution Detection for Cardiac CMR Segmentation,Sunnybrook,In Method,True
+Self-supervised Out-of-distribution Detection for Cardiac CMR Segmentation,Sunnybrook,In Table,True
+Unseen Disease Detection for Deep Learning Interpretation of Chest X-rays,Chexpert,In Method,True
+Robust Non-rigid Registration Through Agent-Based Action Learning,PROMISE12,In Method,True
+Robust Non-rigid Registration Through Agent-Based Action Learning,PROMISE12,In Footnote,True
+RT-DNAS: Real-Time Constrained Differentiable Neural Architecture Search for 3D Cardiac Cine MRI Segmentation,ACDC,In Abstract,True
+RT-DNAS: Real-Time Constrained Differentiable Neural Architecture Search for 3D Cardiac Cine MRI Segmentation,ACDC,Elsewhere,True
+RT-DNAS: Real-Time Constrained Differentiable Neural Architecture Search for 3D Cardiac Cine MRI Segmentation,ACDC,In Method,True
+CheXseg: Combining Expert Annotations with DNN-generated Saliency Maps for X-ray Segmentation,Chexpert,In Method,True
+CheXseg: Combining Expert Annotations with DNN-generated Saliency Maps for X-ray Segmentation,Chexpert,Elsewhere,True
+CheXseg: Combining Expert Annotations with DNN-generated Saliency Maps for X-ray Segmentation,Chexpert,In Figure,True
+ReMix: A General and Efficient Framework for Multiple Instance Learning Based Whole Slide Image Classification,CAMELYON,Elsewhere,True
+ReMix: A General and Efficient Framework for Multiple Instance Learning Based Whole Slide Image Classification,CAMELYON,In Table,True
+Addressing Class Imbalance in Semi-supervised Image Segmentation: A Study on Cardiac MRI,ACDC,In Abstract,True
+Addressing Class Imbalance in Semi-supervised Image Segmentation: A Study on Cardiac MRI,ACDC,Elsewhere,True
+Addressing Class Imbalance in Semi-supervised Image Segmentation: A Study on Cardiac MRI,ACDC,In Method,True
+Addressing Class Imbalance in Semi-supervised Image Segmentation: A Study on Cardiac MRI,ACDC,In Figure,True
+Addressing Class Imbalance in Semi-supervised Image Segmentation: A Study on Cardiac MRI,ACDC,In Table,True
+TEDS-Net: Enforcing Diffeomorphisms in Spatial Transformers to Guarantee Topology Preservation in Segmentations,ACDC,In Figure,True
+TEDS-Net: Enforcing Diffeomorphisms in Spatial Transformers to Guarantee Topology Preservation in Segmentations,ACDC,In Footnote,True
+Point-Unet: A Context-Aware Point-Based Neural Network for Volumetric Segmentation,BRATS,In Abstract,True
+Point-Unet: A Context-Aware Point-Based Neural Network for Volumetric Segmentation,BRATS,Elsewhere,True
+Point-Unet: A Context-Aware Point-Based Neural Network for Volumetric Segmentation,BRATS,In Method,True
+Point-Unet: A Context-Aware Point-Based Neural Network for Volumetric Segmentation,BRATS,In Table,True
+Point-Unet: A Context-Aware Point-Based Neural Network for Volumetric Segmentation,BRATS,In Footnote,True
+Scribble2D5: Weakly-Supervised Volumetric Image Segmentation via Scribble Annotations,ACDC,Elsewhere,True
+Scribble2D5: Weakly-Supervised Volumetric Image Segmentation via Scribble Annotations,ACDC,In Method,True
+Scribble2D5: Weakly-Supervised Volumetric Image Segmentation via Scribble Annotations,ACDC,In Figure,True
+Scribble2D5: Weakly-Supervised Volumetric Image Segmentation via Scribble Annotations,ACDC,In Table,True
+RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs Using a Novel Multi-scale Generative Adversarial Network,DRIVE,In Abstract,True
+RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs Using a Novel Multi-scale Generative Adversarial Network,DRIVE,Elsewhere,True
+RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs Using a Novel Multi-scale Generative Adversarial Network,DRIVE,In Method,True
+RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs Using a Novel Multi-scale Generative Adversarial Network,DRIVE,In Figure,True
+RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs Using a Novel Multi-scale Generative Adversarial Network,DRIVE,In Table,True
+CheXternal,Chexpert,Elsewhere,True
+CheXternal,Chexpert,In Method,True
+CheXternal,Chexpert,In Figure,True
+CheXternal,Chexpert,In Table,True
+From Real MRA to Virtual MRA: Towards an Open-Source Framework,DRIVE,In Method,True
+Renal Cell Carcinoma Classification from Vascular Morphology,CAMELYON,In Method,True
+Distill DSM: Computationally efficient method for segmentation of medical imaging volumes,BRATS,In Abstract,True
+Distill DSM: Computationally efficient method for segmentation of medical imaging volumes,BRATS,Elsewhere,True
+Distill DSM: Computationally efficient method for segmentation of medical imaging volumes,BRATS,In Method,True
+Distill DSM: Computationally efficient method for segmentation of medical imaging volumes,BRATS,In Figure,True
+Distill DSM: Computationally efficient method for segmentation of medical imaging volumes,BRATS,In Table,True
+Semi-supervised Medical Image Classification with Global Latent Mixing,Chexpert,Elsewhere,True
+Semi-supervised Medical Image Classification with Global Latent Mixing,Chexpert,In Method,True
+Semi-supervised Medical Image Classification with Global Latent Mixing,Chexpert,In Table,True
+Practical uncertainty quantification for brain tumor segmentation,BRATS,In Abstract,True
+Practical uncertainty quantification for brain tumor segmentation,BRATS,Elsewhere,True
+Practical uncertainty quantification for brain tumor segmentation,BRATS,In Method,True
+Deep Retinal Image Understanding,DRIVE,Elsewhere,True
+Deep Retinal Image Understanding,DRIVE,In Method,True
+Deep Retinal Image Understanding,DRIVE,In Figure,True
+MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models,Chexpert,In Method,True
+MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models,Chexpert,In Table,True
+MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models,Chexpert,Elsewhere,True
+Cardiac MRI Segmentation with Strong Anatomical Guarantees,ACDC,Elsewhere,True
+Cardiac MRI Segmentation with Strong Anatomical Guarantees,ACDC,In Method,True
+Cardiac MRI Segmentation with Strong Anatomical Guarantees,ACDC,In Table,True
+A Pixel-Wise Distance Regression Approach for Joint Retinal Optical Disc and Fovea Detection,DRIVE,In Method,True
+HAD-Net: A Hierarchical Adversarial Knowledge Distillation Network for Improved Enhanced Tumour Segmentation Without Post-Contrast Images,BRATS,In Abstract,True
+HAD-Net: A Hierarchical Adversarial Knowledge Distillation Network for Improved Enhanced Tumour Segmentation Without Post-Contrast Images,BRATS,Elsewhere,True
+HAD-Net: A Hierarchical Adversarial Knowledge Distillation Network for Improved Enhanced Tumour Segmentation Without Post-Contrast Images,BRATS,In Method,True
+HAD-Net: A Hierarchical Adversarial Knowledge Distillation Network for Improved Enhanced Tumour Segmentation Without Post-Contrast Images,BRATS,In Table,True
+Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence,MIMIC,In Abstract,True
+Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence,MIMIC,In Method,True
+Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence,MIMIC,In Figure,True
+Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence,MIMIC,In Table,True
+Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence,MIMIC,Elsewhere,True
+Adversarial Pseudo Healthy Synthesis Needs Pathology Factorization,BRATS,In Abstract,True
+Adversarial Pseudo Healthy Synthesis Needs Pathology Factorization,BRATS,Elsewhere,True
+Adversarial Pseudo Healthy Synthesis Needs Pathology Factorization,BRATS,In Method,True
+Adversarial Pseudo Healthy Synthesis Needs Pathology Factorization,BRATS,In Figure,True
+Adversarial Pseudo Healthy Synthesis Needs Pathology Factorization,BRATS,In Table,True
+ET-Net: A Generic Edge-aTtention Guidance Network for Medical Image Segmentation,DRIVE,In Method,True
+ET-Net: A Generic Edge-aTtention Guidance Network for Medical Image Segmentation,DRIVE,In Table,True
+CT-Realistic Lung Nodule Simulation from 3D Conditional Generative Adversarial Networks for Robust Lung Segmentation,LIDC-IDRI,In Abstract,True
+CT-Realistic Lung Nodule Simulation from 3D Conditional Generative Adversarial Networks for Robust Lung Segmentation,LIDC-IDRI,In Method,True
+CT-Realistic Lung Nodule Simulation from 3D Conditional Generative Adversarial Networks for Robust Lung Segmentation,LIDC-IDRI,Elsewhere,True
+CT-Realistic Lung Nodule Simulation from 3D Conditional Generative Adversarial Networks for Robust Lung Segmentation,LIDC-IDRI,In Figure,True
+Semi-supervised Learning by Disentangling and Self-ensembling over Stochastic Latent Space,Chexpert,Elsewhere,True
+Semi-supervised Learning by Disentangling and Self-ensembling over Stochastic Latent Space,Chexpert,In Method,True
+Weakly Supervised Multiple Instance Learning Histopathological Tumor Segmentation,CAMELYON,Elsewhere,True
+Attentive Symmetric Autoencoder for Brain MRI Segmentation,BRATS,In Method,True
+Attentive Symmetric Autoencoder for Brain MRI Segmentation,BRATS,In Figure,True
+Attentive Symmetric Autoencoder for Brain MRI Segmentation,BRATS,In Table,True
+Attentive Symmetric Autoencoder for Brain MRI Segmentation,BRATS,In Footnote,True
+The Deep Poincaré Map: A Novel Approach for Left Ventricle Segmentation,Sunnybrook,In Abstract,True
+The Deep Poincaré Map: A Novel Approach for Left Ventricle Segmentation,Sunnybrook,In Method,True
+The Deep Poincaré Map: A Novel Approach for Left Ventricle Segmentation,Sunnybrook,In Table,True
+Assessing Reliability and Challenges of Uncertainty Estimations for Medical Image Segmentation,BRATS,In Method,True
+Assessing Reliability and Challenges of Uncertainty Estimations for Medical Image Segmentation,BRATS,In Figure,True
+Assessing Reliability and Challenges of Uncertainty Estimations for Medical Image Segmentation,BRATS,In Table,True
+Transferable Multi-model Ensemble for Benign-Malignant Lung Nodule Classification on Chest CT,LIDC-IDRI,In Abstract,True
+Transferable Multi-model Ensemble for Benign-Malignant Lung Nodule Classification on Chest CT,LIDC-IDRI,Elsewhere,True
+Transferable Multi-model Ensemble for Benign-Malignant Lung Nodule Classification on Chest CT,LIDC-IDRI,In Method,True
+Transferable Multi-model Ensemble for Benign-Malignant Lung Nodule Classification on Chest CT,LIDC-IDRI,In Table,True
+Context-Aware Virtual Adversarial Training for Anatomically-Plausible Segmentation,ACDC,In Method,True
+Context-Aware Virtual Adversarial Training for Anatomically-Plausible Segmentation,ACDC,Elsewhere,True
+Context-Aware Virtual Adversarial Training for Anatomically-Plausible Segmentation,ACDC,In Figure,True
+Context-Aware Virtual Adversarial Training for Anatomically-Plausible Segmentation,ACDC,In Table,True
+Context-Aware Virtual Adversarial Training for Anatomically-Plausible Segmentation,PROMISE12,In Method,True
+Context-Aware Virtual Adversarial Training for Anatomically-Plausible Segmentation,PROMISE12,Elsewhere,True
+Context-Aware Virtual Adversarial Training for Anatomically-Plausible Segmentation,PROMISE12,In Table,True
+CheXtransfer,Chexpert,In Abstract,True
+CheXtransfer,Chexpert,Elsewhere,True
+CheXtransfer,Chexpert,In Method,True
+CheXtransfer,Chexpert,In Figure,True
+CheXtransfer,Chexpert,In Table,True
+CheXtransfer,Chexpert,In Footnote,True
+Low-Rank to the Rescue – Atlas-Based Analyses in the Presence of Pathologies,BRATS,In Abstract,True
+Low-Rank to the Rescue – Atlas-Based Analyses in the Presence of Pathologies,BRATS,Elsewhere,True
+Low-Rank to the Rescue – Atlas-Based Analyses in the Presence of Pathologies,BRATS,In Method,True
+Have You Forgotten? A Method to Assess if Machine Learning Models Have Forgotten Data,ACDC,In Abstract,True
+Have You Forgotten? A Method to Assess if Machine Learning Models Have Forgotten Data,ACDC,Elsewhere,True
+Have You Forgotten? A Method to Assess if Machine Learning Models Have Forgotten Data,ACDC,In Method,True
+Have You Forgotten? A Method to Assess if Machine Learning Models Have Forgotten Data,ACDC,In Figure,True
+Have You Forgotten? A Method to Assess if Machine Learning Models Have Forgotten Data,ACDC,In Table,True
+SkrGAN: Sketching-Rendering Unconditional Generative Adversarial Networks for Medical Image Synthesis,DRIVE,In Method,True
+Multi-task Neural Networks with Spatial Activation for Retinal Vessel Segmentation and Artery Vein Classification,DRIVE,In Abstract,True
+Multi-task Neural Networks with Spatial Activation for Retinal Vessel Segmentation and Artery Vein Classification,DRIVE,Elsewhere,True
+Multi-task Neural Networks with Spatial Activation for Retinal Vessel Segmentation and Artery Vein Classification,DRIVE,In Method,True
+Multi-task Neural Networks with Spatial Activation for Retinal Vessel Segmentation and Artery Vein Classification,DRIVE,In Figure,True
+Multi-task Neural Networks with Spatial Activation for Retinal Vessel Segmentation and Artery Vein Classification,DRIVE,In Table,True
+Fair admission risk prediction with proportional multicalibration,MIMIC,Elsewhere,True
+Fair admission risk prediction with proportional multicalibration,MIMIC,In Method,True
+Fair admission risk prediction with proportional multicalibration,MIMIC,In Table,True
+Multi-label Thoracic Disease Image Classification with Cross-Attention Networks,Chexpert,Elsewhere,True
+Multi-label Thoracic Disease Image Classification with Cross-Attention Networks,Chexpert,In Method,True
+Multi-label Thoracic Disease Image Classification with Cross-Attention Networks,ChestX-Ray14,Elsewhere,True
+Multi-label Thoracic Disease Image Classification with Cross-Attention Networks,ChestX-Ray14,In Method,True
+Multi-label Thoracic Disease Image Classification with Cross-Attention Networks,ChestX-Ray14,In Table,True
+Statistical Power in Image Segmentation: Relating Sample Size to Reference Standard Quality,PROMISE12,In Abstract,True
+Statistical Power in Image Segmentation: Relating Sample Size to Reference Standard Quality,PROMISE12,Elsewhere,True
+Projective Skip-Connections for Segmentation Along a Subset of Dimensions in Retinal OCT,BRATS,Elsewhere,True
+Why Does Synthesized Data Improve Multi-sequence Classification?,BRATS,In Abstract,True
+Why Does Synthesized Data Improve Multi-sequence Classification?,BRATS,Elsewhere,True
+Why Does Synthesized Data Improve Multi-sequence Classification?,BRATS,In Method,True
+Deep Supervision with Additional Labels for Retinal Vessel Segmentation Task,DRIVE,In Abstract,True
+Deep Supervision with Additional Labels for Retinal Vessel Segmentation Task,DRIVE,In Method,True
+Deep Supervision with Additional Labels for Retinal Vessel Segmentation Task,DRIVE,In Table,True
+DGMIL: Distribution Guided Multiple Instance Learning for Whole Slide Image Classification,CAMELYON,Elsewhere,True
+DGMIL: Distribution Guided Multiple Instance Learning for Whole Slide Image Classification,CAMELYON,In Method,True
+DGMIL: Distribution Guided Multiple Instance Learning for Whole Slide Image Classification,CAMELYON,In Table,True
+DeU-Net: Deformable U-Net for 3D Cardiac MRI Video Segmentation,ACDC,In Method,True
+Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs by Comparing Image Representations,Chexpert,In Method,True
+Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs by Comparing Image Representations,Chexpert,Elsewhere,True
+Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs by Comparing Image Representations,Chexpert,In Table,True
+Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs by Comparing Image Representations,MIMIC,In Method,True
+Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs by Comparing Image Representations,MIMIC,Elsewhere,True
+BEFD: Boundary Enhancement and Feature Denoising for Vessel Segmentation,DRIVE,Elsewhere,True
+BEFD: Boundary Enhancement and Feature Denoising for Vessel Segmentation,DRIVE,In Method,True
+BEFD: Boundary Enhancement and Feature Denoising for Vessel Segmentation,DRIVE,In Figure,True
+An adversarial approach for the robust classification of pneumonia from chest radiographs,Chexpert,In Method,True
+An adversarial approach for the robust classification of pneumonia from chest radiographs,Chexpert,Elsewhere,True
+An adversarial approach for the robust classification of pneumonia from chest radiographs,Chexpert,In Table,True
+An adversarial approach for the robust classification of pneumonia from chest radiographs,MIMIC,In Method,True
+An adversarial approach for the robust classification of pneumonia from chest radiographs,MIMIC,Elsewhere,True
+An adversarial approach for the robust classification of pneumonia from chest radiographs,MIMIC,In Table,True
+Robust Multi-modal MR Image Synthesis,BRATS,In Method,True
+Robust Multi-modal MR Image Synthesis,BRATS,In Table,True
+Missing Values and Imputation in Healthcare Data:  Can Interpretable Machine Learning Help?,MIMIC,Elsewhere,True
+Prostate Cancer Semantic Segmentation by Gleason Score Group in bi-parametric MRI with Self Attention Model on the Peripheral Zone,PROSTATEx,In Method,True
+Prostate Cancer Semantic Segmentation by Gleason Score Group in bi-parametric MRI with Self Attention Model on the Peripheral Zone,PROSTATEx,Elsewhere,True
+Detecting Pancreatic Ductal Adenocarcinoma in Multi-phase CT Scans via Alignment Ensemble,BRATS,In Method,True
+Shape-Aware Meta-learning for Generalizing Prostate MRI Segmentation to Unseen Domains,PROMISE12,In Method,True
+CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training,Chexpert,In Method,True
+CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training,Chexpert,In Table,True
+CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training,MIMIC,In Method,True
+CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training,MIMIC,In Table,True
+CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training,MIMIC,Elsewhere,True
+Domain Generalization for Retinal Vessel Segmentation with Vector Field Transformer,DRIVE,In Method,True
+Rotation Equivariant CNNs for Digital Pathology,CAMELYON,Elsewhere,True
+Rotation Equivariant CNNs for Digital Pathology,CAMELYON,In Method,True
+Rotation Equivariant CNNs for Digital Pathology,CAMELYON,In Figure,True
+Self-supervised Feature Learning for 3D Medical Images by Playing a Rubik’s Cube,BRATS,In Method,True
+Self-supervised Feature Learning for 3D Medical Images by Playing a Rubik’s Cube,BRATS,In Table,True
+Inter-site Variability in Prostate Segmentation Accuracy Using Deep Learning,PROMISE12,In Method,True
+Inter-site Variability in Prostate Segmentation Accuracy Using Deep Learning,PROMISE12,Elsewhere,True
+Universal Undersampled MRI Reconstruction,ACDC,In Method,True
+Distribution Matching Losses Can Hallucinate Features in Medical Image Translation,BRATS,Elsewhere,True
+On the Relationship Between Calibrated Predictors and Unbiased Volume Estimation,BRATS,In Abstract,True
+On the Relationship Between Calibrated Predictors and Unbiased Volume Estimation,BRATS,Elsewhere,True
+On the Relationship Between Calibrated Predictors and Unbiased Volume Estimation,BRATS,In Method,True
+On the Relationship Between Calibrated Predictors and Unbiased Volume Estimation,BRATS,In Table,True
+Using Causal Analysis for Conceptual Deep Learning Explanation,Chexpert,In Method,True
+Using Causal Analysis for Conceptual Deep Learning Explanation,MIMIC,In Method,True
+Tensor Networks for Medical Image Classification,LIDC-IDRI,Elsewhere,True
+Tensor Networks for Medical Image Classification,LIDC-IDRI,In Method,True
+Tensor Networks for Medical Image Classification,LIDC-IDRI,In Figure,True
+Tensor Networks for Medical Image Classification,LIDC-IDRI,In Table,True
+Tensor Networks for Medical Image Classification,CAMELYON,In Figure,True
+vMFNet: Compositionality Meets Domain-Generalised Segmentation,M&Ms,In Method,True
+vMFNet: Compositionality Meets Domain-Generalised Segmentation,M&Ms,Elsewhere,True
+vMFNet: Compositionality Meets Domain-Generalised Segmentation,M&Ms,In Figure,True
+vMFNet: Compositionality Meets Domain-Generalised Segmentation,M&Ms,In Table,True
+Hierarchical Classification of Pulmonary Lesions: A Large-Scale Radio-Pathomics Study,LIDC-IDRI,Elsewhere,True
+Suggestive Annotation of Brain Tumour Images with Gradient-Guided Sampling,BRATS,In Abstract,True
+Suggestive Annotation of Brain Tumour Images with Gradient-Guided Sampling,BRATS,In Method,True
+Unsupervised Lesion Detection via Image Restoration with a Normative Prior,BRATS,In Method,True
+Unsupervised Lesion Detection via Image Restoration with a Normative Prior,BRATS,In Figure,True
+Meta Corrupted Pixels Mining for Medical Image Segmentation,LIDC-IDRI,In Abstract,True
+Meta Corrupted Pixels Mining for Medical Image Segmentation,LIDC-IDRI,Elsewhere,True
+Meta Corrupted Pixels Mining for Medical Image Segmentation,LIDC-IDRI,In Method,True
+Meta Corrupted Pixels Mining for Medical Image Segmentation,LIDC-IDRI,In Table,True
+Improving the Fairness of Chest X-ray Classifiers,Chexpert,In Abstract,True
+Improving the Fairness of Chest X-ray Classifiers,Chexpert,In Method,True
+Improving the Fairness of Chest X-ray Classifiers,Chexpert,Elsewhere,True
+Improving the Fairness of Chest X-ray Classifiers,Chexpert,In Figure,True
+Improving the Fairness of Chest X-ray Classifiers,Chexpert,In Table,True
+Improving the Fairness of Chest X-ray Classifiers,MIMIC,In Abstract,True
+Improving the Fairness of Chest X-ray Classifiers,MIMIC,Elsewhere,True
+Improving the Fairness of Chest X-ray Classifiers,MIMIC,In Method,True
+Improving the Fairness of Chest X-ray Classifiers,MIMIC,In Figure,True
+Improving the Fairness of Chest X-ray Classifiers,MIMIC,In Table,True
+Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer,ACDC,In Method,True
+Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer,ACDC,In Table,True
+Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer,ACDC,Elsewhere,True
+Adversarial Pulmonary Pathology Translation for Pairwise Chest X-Ray Data Augmentation,ChestX-Ray14,Elsewhere,True
+Adversarial Pulmonary Pathology Translation for Pairwise Chest X-Ray Data Augmentation,ChestX-Ray14,In Method,True
+Weakly Supervised Volumetric Segmentation via Self-taught Shape Denoising Model,PROMISE12,In Method,True
+Weakly Supervised Volumetric Segmentation via Self-taught Shape Denoising Model,PROMISE12,In Footnote,True
+Weakly Supervised Volumetric Segmentation via Self-taught Shape Denoising Model,PROMISE12,Elsewhere,True
+Learning Interpretable Features via Adversarially Robust Optimization,ChestX-Ray14,In Method,True
+Universal Loss Reweighting to Balance Lesion Size Inequality in 3D Medical Image Segmentation,BRATS,Elsewhere,True
+Universal Loss Reweighting to Balance Lesion Size Inequality in 3D Medical Image Segmentation,LIDC-IDRI,In Abstract,True
+Universal Loss Reweighting to Balance Lesion Size Inequality in 3D Medical Image Segmentation,LIDC-IDRI,In Method,True
+Interactive Retinal Vessel Extraction by Integrating Vessel Tracing and Graph Search,DRIVE,Elsewhere,True
+Interactive Retinal Vessel Extraction by Integrating Vessel Tracing and Graph Search,DRIVE,In Method,True
+Interactive Retinal Vessel Extraction by Integrating Vessel Tracing and Graph Search,DRIVE,In Table,True
+Beyond pixel-wise supervision for segmentation: A few global shape descriptors might be surprisingly good!,ACDC,In Method,True
+Beyond pixel-wise supervision for segmentation: A few global shape descriptors might be surprisingly good!,ACDC,In Figure,True
+Beyond pixel-wise supervision for segmentation: A few global shape descriptors might be surprisingly good!,ACDC,In Table,True
+Beyond pixel-wise supervision for segmentation: A few global shape descriptors might be surprisingly good!,ACDC,Elsewhere,True
+Optimal MRI Undersampling Patterns for Pathology Localization,ACDC,Elsewhere,True
+Optimal MRI Undersampling Patterns for Pathology Localization,ACDC,In Method,True
+Optimal MRI Undersampling Patterns for Pathology Localization,ACDC,In Figure,True
+Optimal MRI Undersampling Patterns for Pathology Localization,ACDC,In Table,True
+Optimal MRI Undersampling Patterns for Pathology Localization,BRATS,Elsewhere,True
+Optimal MRI Undersampling Patterns for Pathology Localization,BRATS,In Method,True
+Optimal MRI Undersampling Patterns for Pathology Localization,BRATS,In Figure,True
+Optimal MRI Undersampling Patterns for Pathology Localization,BRATS,In Table,True
+Explaining a machine learning decision to physicians via counterfactuals,MIMIC,Elsewhere,True
+Explaining a machine learning decision to physicians via counterfactuals,MIMIC,In Method,True
+Multi-frame Super-resolution with Quality Self-assessment for Retinal Fundus Videos,DRIVE,In Method,True
+Structure-Consistent Restoration Network for Cataract Fundus Image Enhancement,DRIVE,In Method,True
+Pseudo Bias-Balanced Learning for Debiased Chest X-Ray Classification,MIMIC,In Method,True
+Autofocus Layer for Semantic Segmentation,BRATS,In Method,True
+Autofocus Layer for Semantic Segmentation,BRATS,In Table,True
+Utilizing Longitudinal Chest X-Rays and Reports to Pre-fill Radiology Reports,Chexpert,In Method,True
+Utilizing Longitudinal Chest X-Rays and Reports to Pre-fill Radiology Reports,Chexpert,Elsewhere,True
+Utilizing Longitudinal Chest X-Rays and Reports to Pre-fill Radiology Reports,MIMIC,In Abstract,True
+Utilizing Longitudinal Chest X-Rays and Reports to Pre-fill Radiology Reports,MIMIC,Elsewhere,True
+Utilizing Longitudinal Chest X-Rays and Reports to Pre-fill Radiology Reports,MIMIC,In Method,True
+Utilizing Longitudinal Chest X-Rays and Reports to Pre-fill Radiology Reports,MIMIC,In Table,True
+Optimizing the Dice Score and Jaccard Index for Medical Image Segmentation: Theory and Practice,BRATS,In Method,True
+Probabilistic Radiomics: Ambiguous Diagnosis with Controllable Shape Analysis,LIDC-IDRI,In Abstract,True
+Probabilistic Radiomics: Ambiguous Diagnosis with Controllable Shape Analysis,LIDC-IDRI,Elsewhere,True
+Probabilistic Radiomics: Ambiguous Diagnosis with Controllable Shape Analysis,LIDC-IDRI,In Method,True
+Robust Fusion of Probability Maps,LIDC-IDRI,In Method,True
+GOAL: Gist-set Online Active Learning for Efficient Chest X-ray Image Annotation,Chexpert,Elsewhere,True
+GOAL: Gist-set Online Active Learning for Efficient Chest X-ray Image Annotation,Chexpert,In Method,True
+GOAL: Gist-set Online Active Learning for Efficient Chest X-ray Image Annotation,Chexpert,In Table,True
+Multi-view Local Co-occurrence and Global Consistency Learning Improve Mammogram Classification Generalisation,CBIS-DDSM,In Method,True
+Rediscovery of CNN’s Versatility for Text-based Encoding of Raw Electronic Health Records,MIMIC,Elsewhere,True
+Rediscovery of CNN’s Versatility for Text-based Encoding of Raw Electronic Health Records,MIMIC,In Method,True
+Rediscovery of CNN’s Versatility for Text-based Encoding of Raw Electronic Health Records,MIMIC,In Figure,True
+Encoding CT Anatomy Knowledge for Unpaired Chest X-ray Image Decomposition,LIDC-IDRI,In Method,True
+BerDiff: Conditional Bernoulli Diffusion Model for Medical Image  Segmentation,BRATS,Elsewhere,True
+BerDiff: Conditional Bernoulli Diffusion Model for Medical Image  Segmentation,BRATS,In Method,True
+BerDiff: Conditional Bernoulli Diffusion Model for Medical Image  Segmentation,BRATS,In Figure,True
+BerDiff: Conditional Bernoulli Diffusion Model for Medical Image  Segmentation,LIDC-IDRI,Elsewhere,True
+BerDiff: Conditional Bernoulli Diffusion Model for Medical Image  Segmentation,LIDC-IDRI,In Method,True
+BerDiff: Conditional Bernoulli Diffusion Model for Medical Image  Segmentation,LIDC-IDRI,In Figure,True
+BerDiff: Conditional Bernoulli Diffusion Model for Medical Image  Segmentation,LIDC-IDRI,In Table,True
+Harnessing Uncertainty in Domain Adaptation for MRI Prostate Lesion Segmentation,PROSTATEx,In Method,True
+Learning with Multitask Adversaries using Weakly Labelled Data for Semantic Segmentation in Retinal Images,DRIVE,In Abstract,True
+Learning with Multitask Adversaries using Weakly Labelled Data for Semantic Segmentation in Retinal Images,DRIVE,In Method,True
+Multi-modal Pre-training for Medical Vision-language Understanding and Generation: An Empirical Study with A New Benchmark,Chexpert,In Method,True
+Multi-modal Pre-training for Medical Vision-language Understanding and Generation: An Empirical Study with A New Benchmark,Chexpert,In Table,True
+Multi-modal Pre-training for Medical Vision-language Understanding and Generation: An Empirical Study with A New Benchmark,PadChest,In Method,True
+Multi-modal Pre-training for Medical Vision-language Understanding and Generation: An Empirical Study with A New Benchmark,PadChest,In Table,True
+Multi-modal Pre-training for Medical Vision-language Understanding and Generation: An Empirical Study with A New Benchmark,MIMIC,Elsewhere,True
+Multi-modal Pre-training for Medical Vision-language Understanding and Generation: An Empirical Study with A New Benchmark,MIMIC,In Method,True
+Multi-modal Pre-training for Medical Vision-language Understanding and Generation: An Empirical Study with A New Benchmark,MIMIC,In Table,True
+Automatic Segmentation of Head and Neck Tumor: How Powerful Transformers Are?,BRATS,Elsewhere,True
+PHiSeg: Capturing Uncertainty in Medical Image Segmentation,LIDC-IDRI,In Method,True
+PHiSeg: Capturing Uncertainty in Medical Image Segmentation,LIDC-IDRI,In Figure,True
+PHiSeg: Capturing Uncertainty in Medical Image Segmentation,LIDC-IDRI,In Table,True
+PHiSeg: Capturing Uncertainty in Medical Image Segmentation,LIDC-IDRI,Elsewhere,True
+Multi-atlas Segmentation without Registration: A Supervoxel-Based Approach,BRATS,In Method,True
+Modality Completion via Gaussian Process Prior Variational Autoencoders for Multi-modal Glioma Segmentation,BRATS,In Abstract,True
+Modality Completion via Gaussian Process Prior Variational Autoencoders for Multi-modal Glioma Segmentation,BRATS,Elsewhere,True
+Modality Completion via Gaussian Process Prior Variational Autoencoders for Multi-modal Glioma Segmentation,BRATS,In Method,True
+Chest X-Ray Report Generation Through Fine-Grained Label Learning,MIMIC,Elsewhere,True
+Chest X-Ray Report Generation Through Fine-Grained Label Learning,MIMIC,In Method,True
+Chest X-Ray Report Generation Through Fine-Grained Label Learning,MIMIC,In Table,True
+ACE-Net: Biomedical Image Segmentation with Augmented Contracting and Expansive Paths,DRIVE,Elsewhere,True
+ACE-Net: Biomedical Image Segmentation with Augmented Contracting and Expansive Paths,DRIVE,In Method,True
+ACE-Net: Biomedical Image Segmentation with Augmented Contracting and Expansive Paths,DRIVE,In Figure,True
+ACE-Net: Biomedical Image Segmentation with Augmented Contracting and Expansive Paths,DRIVE,In Table,True
+Deidentification of free-text medical records using pre-trained bidirectional transformers,MIMIC,Elsewhere,True
+Learning Fully-Connected CRFs for Blood Vessel Segmentation in Retinal Images,DRIVE,Elsewhere,True
+Learning Fully-Connected CRFs for Blood Vessel Segmentation in Retinal Images,DRIVE,In Method,True
+Learning Fully-Connected CRFs for Blood Vessel Segmentation in Retinal Images,DRIVE,In Figure,True
+Learning Fully-Connected CRFs for Blood Vessel Segmentation in Retinal Images,DRIVE,In Table,True
+XLSor: A Robust and Accurate Lung Segmentor on Chest X-Rays Using Criss-Cross Attention and Customized Radiorealistic Abnormalities Generation,ChestX-Ray14,In Abstract,True
+Quantifying and Leveraging Classification Uncertainty for Chest Radiograph Assessment,ChestX-Ray14,Elsewhere,True
+Quantifying and Leveraging Classification Uncertainty for Chest Radiograph Assessment,ChestX-Ray14,In Method,True
+Diffusion Models for Medical Anomaly Detection,BRATS,In Abstract,True
+Diffusion Models for Medical Anomaly Detection,BRATS,Elsewhere,True
+Diffusion Models for Medical Anomaly Detection,BRATS,In Method,True
+Diffusion Models for Medical Anomaly Detection,BRATS,In Figure,True
+Diffusion Models for Medical Anomaly Detection,Chexpert,In Abstract,True
+Diffusion Models for Medical Anomaly Detection,Chexpert,Elsewhere,True
+Diffusion Models for Medical Anomaly Detection,Chexpert,In Method,True
+Diffusion Models for Medical Anomaly Detection,Chexpert,In Figure,True
+Variational Topic Inference for Chest X-Ray Report Generation,Chexpert,In Method,True
+Variational Topic Inference for Chest X-Ray Report Generation,MIMIC,In Abstract,True
+Variational Topic Inference for Chest X-Ray Report Generation,MIMIC,In Method,True
+Variational Topic Inference for Chest X-Ray Report Generation,MIMIC,Elsewhere,True
+Variational Topic Inference for Chest X-Ray Report Generation,MIMIC,In Table,True
+Vector Quantisation for Robust Segmentation,ChestX-Ray14,In Method,True
+Vector Quantisation for Robust Segmentation,ChestX-Ray14,In Figure,True
+Flow-Based Deformation Guidance for Unpaired Multi-contrast MRI Image-to-Image Translation,BRATS,In Abstract,True
+Flow-Based Deformation Guidance for Unpaired Multi-contrast MRI Image-to-Image Translation,BRATS,In Method,True
+Flow-Based Deformation Guidance for Unpaired Multi-contrast MRI Image-to-Image Translation,BRATS,In Table,True
+S4ND: Single-Shot Single-Scale Lung Nodule Detection,LIDC-IDRI,In Method,True
+Continual Learning for Domain Adaptation in Chest X-ray Classification,Chexpert,In Method,True
+Continual Learning for Domain Adaptation in Chest X-ray Classification,MIMIC,In Abstract,True
+Continual Learning for Domain Adaptation in Chest X-ray Classification,MIMIC,Elsewhere,True
+Continual Learning for Domain Adaptation in Chest X-ray Classification,MIMIC,In Method,True
+Continual Learning for Domain Adaptation in Chest X-ray Classification,MIMIC,In Figure,True
+Continual Learning for Domain Adaptation in Chest X-ray Classification,MIMIC,In Table,True
+MedSelect: Selective Labeling for Medical Image Classification Using Meta-Learning,Chexpert,In Method,True
+Joint Modeling of Image and Label Statistics for Enhancing Model Generalizability of Medical Image Segmentation,ACDC,In Method,True
+Joint Modeling of Image and Label Statistics for Enhancing Model Generalizability of Medical Image Segmentation,ACDC,In Table,True
+On the limits of cross-domain generalization in automated X-ray prediction,Chexpert,In Method,True
+On the limits of cross-domain generalization in automated X-ray prediction,Chexpert,Elsewhere,True
+On the limits of cross-domain generalization in automated X-ray prediction,PadChest,In Method,True
+On the limits of cross-domain generalization in automated X-ray prediction,PadChest,Elsewhere,True
+On the limits of cross-domain generalization in automated X-ray prediction,MIMIC,Elsewhere,True
+On the limits of cross-domain generalization in automated X-ray prediction,MIMIC,In Method,True
+Learning from Suspected Target: Bootstrapping Performance for Breast Cancer Detection in Mammography,CBIS-DDSM,In Abstract,True
+Learning from Suspected Target: Bootstrapping Performance for Breast Cancer Detection in Mammography,CBIS-DDSM,Elsewhere,True
+Learning from Suspected Target: Bootstrapping Performance for Breast Cancer Detection in Mammography,CBIS-DDSM,In Method,True
+Learning from Suspected Target: Bootstrapping Performance for Breast Cancer Detection in Mammography,CBIS-DDSM,In Table,True
+Modality Propagation: Coherent Synthesis of Subject-Specific Scans with Data-Driven Regularization,BRATS,In Method,True
+Modality Propagation: Coherent Synthesis of Subject-Specific Scans with Data-Driven Regularization,BRATS,In Footnote,True
+Scalable Multimodal Convolutional Networks for Brain Tumour Segmentation,BRATS,Elsewhere,True
+Scalable Multimodal Convolutional Networks for Brain Tumour Segmentation,BRATS,In Method,True
+Scalable Multimodal Convolutional Networks for Brain Tumour Segmentation,BRATS,In Table,True
+Sharpening Local Interpretable Model-Agnostic Explanations for Histopathology: Improved Understandability and Reliability,CAMELYON,In Method,True
+Sharpening Local Interpretable Model-Agnostic Explanations for Histopathology: Improved Understandability and Reliability,CAMELYON,In Figure,True
+Sharpening Local Interpretable Model-Agnostic Explanations for Histopathology: Improved Understandability and Reliability,CAMELYON,In Footnote,True
+Federated Contrastive Learning for Decentralized Unlabeled Medical Images,Chexpert,Elsewhere,True
+Federated Contrastive Learning for Decentralized Unlabeled Medical Images,Chexpert,In Figure,True
+Federated Contrastive Learning for Decentralized Unlabeled Medical Images,Chexpert,In Table,True
+Federated Contrastive Learning for Decentralized Unlabeled Medical Images,VinDr-CXR,Elsewhere,True
+Federated Contrastive Learning for Decentralized Unlabeled Medical Images,VinDr-CXR,In Figure,True
+Federated Contrastive Learning for Decentralized Unlabeled Medical Images,VinDr-CXR,In Table,True
+Federated Contrastive Learning for Volumetric Medical Image Segmentation,ACDC,In Method,True
+Deep Recurrent Level Set for Segmenting Brain Tumors,BRATS,In Abstract,True
+Deep Recurrent Level Set for Segmenting Brain Tumors,BRATS,Elsewhere,True
+Deep Recurrent Level Set for Segmenting Brain Tumors,BRATS,In Figure,True
+Deep Recurrent Level Set for Segmenting Brain Tumors,BRATS,In Table,True
+Diffusion Models for Implicit Image Segmentation Ensembles,BRATS,In Abstract,True
+Diffusion Models for Implicit Image Segmentation Ensembles,BRATS,Elsewhere,True
+Diffusion Models for Implicit Image Segmentation Ensembles,BRATS,In Method,True
+MSU-Net: Multiscale Statistical U-Net for Real-Time 3D Cardiac MRI Video Segmentation,ACDC,In Method,True
+MSU-Net: Multiscale Statistical U-Net for Real-Time 3D Cardiac MRI Video Segmentation,ACDC,Elsewhere,True
+Learning Interpretable Anatomical Features Through Deep Generative Models: Application to Cardiac Remodeling,ACDC,In Abstract,True
+Learning Interpretable Anatomical Features Through Deep Generative Models: Application to Cardiac Remodeling,ACDC,Elsewhere,True
+Learning Interpretable Anatomical Features Through Deep Generative Models: Application to Cardiac Remodeling,ACDC,In Method,True
+Red-GAN: Attacking class imbalance via conditioned generation. Yet another medical imaging perspective,BRATS,In Abstract,True
+Red-GAN: Attacking class imbalance via conditioned generation. Yet another medical imaging perspective,BRATS,Elsewhere,True
+Red-GAN: Attacking class imbalance via conditioned generation. Yet another medical imaging perspective,BRATS,In Method,True
+Red-GAN: Attacking class imbalance via conditioned generation. Yet another medical imaging perspective,BRATS,In Figure,True
+A comprehensive EHR timeseries pre-training benchmark,MIMIC,In Abstract,True
+A comprehensive EHR timeseries pre-training benchmark,MIMIC,Elsewhere,True
+A comprehensive EHR timeseries pre-training benchmark,MIMIC,In Method,True
+A comprehensive EHR timeseries pre-training benchmark,MIMIC,In Figure,True
+A comprehensive EHR timeseries pre-training benchmark,MIMIC,In Table,True
+Hidden in Plain Sight: Subgroup Shifts Escape OOD Detection,CAMELYON,In Method,True
+Hidden in Plain Sight: Subgroup Shifts Escape OOD Detection,CAMELYON,In Figure,True
+Anatomy-Guided Weakly-Supervised Abnormality Localization in Chest X-rays,Chexpert,In Method,True
+Anatomy-Guided Weakly-Supervised Abnormality Localization in Chest X-rays,ChestX-Ray14,In Abstract,True
+Anatomy-Guided Weakly-Supervised Abnormality Localization in Chest X-rays,ChestX-Ray14,Elsewhere,True
+Anatomy-Guided Weakly-Supervised Abnormality Localization in Chest X-rays,ChestX-Ray14,In Method,True
+Anatomy-Guided Weakly-Supervised Abnormality Localization in Chest X-rays,ChestX-Ray14,In Table,True
+Anatomy-Guided Weakly-Supervised Abnormality Localization in Chest X-rays,MIMIC,In Abstract,True
+Anatomy-Guided Weakly-Supervised Abnormality Localization in Chest X-rays,MIMIC,Elsewhere,True
+Anatomy-Guided Weakly-Supervised Abnormality Localization in Chest X-rays,MIMIC,In Method,True
+Anatomy-Guided Weakly-Supervised Abnormality Localization in Chest X-rays,MIMIC,In Table,True
+Robust Multimodal Brain Tumor Segmentation via Feature Disentanglement and Gated Fusion,BRATS,In Abstract,True
+Robust Multimodal Brain Tumor Segmentation via Feature Disentanglement and Gated Fusion,BRATS,Elsewhere,True
+Robust Multimodal Brain Tumor Segmentation via Feature Disentanglement and Gated Fusion,BRATS,In Method,True
+Robust Multimodal Brain Tumor Segmentation via Feature Disentanglement and Gated Fusion,BRATS,In Table,True
+Unsupervised Deformable Image Registration with Absent Correspondences in Pre-operative and Post-recurrence Brain Tumor MRI Scans,BRATS,In Abstract,True
+Unsupervised Deformable Image Registration with Absent Correspondences in Pre-operative and Post-recurrence Brain Tumor MRI Scans,BRATS,In Method,True
+Missing Values and Imputation in Healthcare Data: Can Interpretable Machine Learning Help?,MIMIC,Elsewhere,True
+CheXRelNet: An Anatomy-Aware Model for Tracking Longitudinal Relationships Between Chest X-Rays,Chexpert,In Method,True
+CheXRelNet: An Anatomy-Aware Model for Tracking Longitudinal Relationships Between Chest X-Rays,MIMIC,In Method,True
+CheXRelNet: An Anatomy-Aware Model for Tracking Longitudinal Relationships Between Chest X-Rays,MIMIC,In Table,True
+Towards multi-sequence MR image recovery from undersampled k-space data,BRATS,In Method,True
+iSegFormer: Interactive Segmentation via Transformers with Application to 3D Knee MR Images,BRATS,In Method,True
+iSegFormer: Interactive Segmentation via Transformers with Application to 3D Knee MR Images,BRATS,In Figure,True
+Unregistered Multiview Mammogram Analysis with Pre-trained Deep Learning Models,CBIS-DDSM,In Abstract,True
+Unregistered Multiview Mammogram Analysis with Pre-trained Deep Learning Models,CBIS-DDSM,In Method,True
+Unregistered Multiview Mammogram Analysis with Pre-trained Deep Learning Models,CBIS-DDSM,Elsewhere,True
+Unregistered Multiview Mammogram Analysis with Pre-trained Deep Learning Models,CBIS-DDSM,In Figure,True
+A Deep Discontinuity-Preserving Image Registration Network,ACDC,In Method,True
+Bayesian Pseudo Labels: Expectation Maximization for Robust and Efficient Semi-supervised Segmentation,BRATS,Elsewhere,True
+Bayesian Pseudo Labels: Expectation Maximization for Robust and Efficient Semi-supervised Segmentation,BRATS,In Method,True
+Bayesian Pseudo Labels: Expectation Maximization for Robust and Efficient Semi-supervised Segmentation,BRATS,In Figure,True
+Bayesian Pseudo Labels: Expectation Maximization for Robust and Efficient Semi-supervised Segmentation,BRATS,In Table,True
+Breaking with Fixed Set Pathology Recognition Through Report-Guided Contrastive Training,Chexpert,In Abstract,True
+Breaking with Fixed Set Pathology Recognition Through Report-Guided Contrastive Training,Chexpert,In Method,True
+Breaking with Fixed Set Pathology Recognition Through Report-Guided Contrastive Training,Chexpert,In Table,True
+Breaking with Fixed Set Pathology Recognition Through Report-Guided Contrastive Training,ChestX-Ray14,In Abstract,True
+Breaking with Fixed Set Pathology Recognition Through Report-Guided Contrastive Training,ChestX-Ray14,In Method,True
+Breaking with Fixed Set Pathology Recognition Through Report-Guided Contrastive Training,ChestX-Ray14,In Figure,True
+Breaking with Fixed Set Pathology Recognition Through Report-Guided Contrastive Training,ChestX-Ray14,In Table,True
+Breaking with Fixed Set Pathology Recognition Through Report-Guided Contrastive Training,PadChest,In Method,True
+Breaking with Fixed Set Pathology Recognition Through Report-Guided Contrastive Training,PadChest,In Table,True
+Breaking with Fixed Set Pathology Recognition Through Report-Guided Contrastive Training,MIMIC,In Abstract,True
+Breaking with Fixed Set Pathology Recognition Through Report-Guided Contrastive Training,MIMIC,Elsewhere,True
+Breaking with Fixed Set Pathology Recognition Through Report-Guided Contrastive Training,MIMIC,In Method,True
+Breaking with Fixed Set Pathology Recognition Through Report-Guided Contrastive Training,MIMIC,In Figure,True
+Breaking with Fixed Set Pathology Recognition Through Report-Guided Contrastive Training,MIMIC,In Table,True
+Learning Underrepresented Classes from Decentralized Partially Labeled Medical Images,ChestX-Ray14,Elsewhere,True
+Learning Underrepresented Classes from Decentralized Partially Labeled Medical Images,ChestX-Ray14,In Method,True
+Learning Underrepresented Classes from Decentralized Partially Labeled Medical Images,ChestX-Ray14,In Footnote,True
+Hetero-Modal Variational Encoder-Decoder for Joint Modality Completion and Segmentation,BRATS,In Abstract,True
+Hetero-Modal Variational Encoder-Decoder for Joint Modality Completion and Segmentation,BRATS,In Method,True
+A Robust and Effective Approach Towards Accurate Metastasis Detection and pN-stage Classification in Breast Cancer,CAMELYON,In Abstract,True
+A Robust and Effective Approach Towards Accurate Metastasis Detection and pN-stage Classification in Breast Cancer,CAMELYON,Elsewhere,True
+A Robust and Effective Approach Towards Accurate Metastasis Detection and pN-stage Classification in Breast Cancer,CAMELYON,In Method,True
+A Robust and Effective Approach Towards Accurate Metastasis Detection and pN-stage Classification in Breast Cancer,CAMELYON,In Figure,True
+A Robust and Effective Approach Towards Accurate Metastasis Detection and pN-stage Classification in Breast Cancer,CAMELYON,In Table,True
+PFA-ScanNet: Pyramidal Feature Aggregation with Synergistic Learning for Breast Cancer Metastasis Analysis,CAMELYON,In Abstract,True
+PFA-ScanNet: Pyramidal Feature Aggregation with Synergistic Learning for Breast Cancer Metastasis Analysis,CAMELYON,Elsewhere,True
+PFA-ScanNet: Pyramidal Feature Aggregation with Synergistic Learning for Breast Cancer Metastasis Analysis,CAMELYON,In Method,True
+PFA-ScanNet: Pyramidal Feature Aggregation with Synergistic Learning for Breast Cancer Metastasis Analysis,CAMELYON,In Table,True
+PFA-ScanNet: Pyramidal Feature Aggregation with Synergistic Learning for Breast Cancer Metastasis Analysis,CAMELYON,In Footnote,True
+Automated Pulmonary Embolism Detection from CTPA Images Using an End-to-End Convolutional Neural Network,LIDC-IDRI,In Method,True
+Test-Time Unsupervised Domain Adaptation,BRATS,Elsewhere,True
+Phenotypical ontology driven framework for multi-task learning,MIMIC,In Abstract,True
+Phenotypical ontology driven framework for multi-task learning,MIMIC,Elsewhere,True
+Phenotypical ontology driven framework for multi-task learning,MIMIC,In Method,True
+Phenotypical ontology driven framework for multi-task learning,MIMIC,In Figure,True
+Unsupervised Brain Anomaly Detection and Segmentation with Transformers,BRATS,In Method,True
+Unsupervised Brain Anomaly Detection and Segmentation with Transformers,BRATS,Elsewhere,True
+Unsupervised Brain Anomaly Detection and Segmentation with Transformers,BRATS,In Table,True
+Supervised Uncertainty Quantification for Segmentation with Multiple Annotations,PROMISE12,In Abstract,True
+Supervised Uncertainty Quantification for Segmentation with Multiple Annotations,PROMISE12,Elsewhere,True
+Supervised Uncertainty Quantification for Segmentation with Multiple Annotations,LIDC-IDRI,In Abstract,True
+Supervised Uncertainty Quantification for Segmentation with Multiple Annotations,LIDC-IDRI,In Method,True
+Supervised Uncertainty Quantification for Segmentation with Multiple Annotations,LIDC-IDRI,Elsewhere,True
+Supervised Uncertainty Quantification for Segmentation with Multiple Annotations,LIDC-IDRI,In Table,True
+4D Semantic Cardiac Magnetic Resonance Image Synthesis on XCAT Anatomical Model,ACDC,In Method,True
+4D Semantic Cardiac Magnetic Resonance Image Synthesis on XCAT Anatomical Model,ACDC,Elsewhere,True
+4D Semantic Cardiac Magnetic Resonance Image Synthesis on XCAT Anatomical Model,ACDC,In Figure,True
+Semi-supervised Meta-learning with Disentanglement for Domain-Generalised Medical Image Segmentation,M&Ms,Elsewhere,True
+Semi-supervised Meta-learning with Disentanglement for Domain-Generalised Medical Image Segmentation,M&Ms,In Figure,True
+Semi-supervised Meta-learning with Disentanglement for Domain-Generalised Medical Image Segmentation,M&Ms,In Table,True
+NAF: Neural Attenuation Fields for Sparse-View CBCT Reconstruction,LIDC-IDRI,In Method,True
+Roto-Translation Covariant Convolutional Networks for Medical Image Analysis,DRIVE,In Method,True
+NestedFormer: Nested Modality-Aware Transformer for Brain Tumor Segmentation,BRATS,In Abstract,True
+NestedFormer: Nested Modality-Aware Transformer for Brain Tumor Segmentation,BRATS,Elsewhere,True
+NestedFormer: Nested Modality-Aware Transformer for Brain Tumor Segmentation,BRATS,In Figure,True
+NestedFormer: Nested Modality-Aware Transformer for Brain Tumor Segmentation,BRATS,In Table,True
+Unsupervised Anomaly Localization Using Variational Auto-Encoders,BRATS,In Method,True
+Unsupervised Anomaly Localization Using Variational Auto-Encoders,BRATS,Elsewhere,True
+Unsupervised Anomaly Localization Using Variational Auto-Encoders,BRATS,In Figure,True
+Unsupervised Anomaly Localization Using Variational Auto-Encoders,BRATS,In Table,True
+Learning Joint Shape and Appearance Representations with Metamorphic Auto-Encoders,BRATS,In Method,True
+Temporal pointwise convolutional networks for length of stay prediction in the intensive care unit,MIMIC,In Abstract,True
+Temporal pointwise convolutional networks for length of stay prediction in the intensive care unit,MIMIC,Elsewhere,True
+Temporal pointwise convolutional networks for length of stay prediction in the intensive care unit,MIMIC,In Method,True
+Temporal pointwise convolutional networks for length of stay prediction in the intensive care unit,MIMIC,In Figure,True
+Temporal pointwise convolutional networks for length of stay prediction in the intensive care unit,MIMIC,In Table,True
+Implicit Field Learning for Unsupervised Anomaly Detection in Medical Images,BRATS,In Method,True
+Implicit Field Learning for Unsupervised Anomaly Detection in Medical Images,BRATS,In Table,True
+CS-Net: Channel and Spatial Attention Network for Curvilinear Structure Segmentation,DRIVE,In Method,True
+CS-Net: Channel and Spatial Attention Network for Curvilinear Structure Segmentation,DRIVE,In Table,True
+Why Patient Data Cannot Be Easily Forgotten?,ACDC,In Abstract,True
+Why Patient Data Cannot Be Easily Forgotten?,ACDC,In Method,True
+Why Patient Data Cannot Be Easily Forgotten?,ACDC,Elsewhere,True
+Why Patient Data Cannot Be Easily Forgotten?,ACDC,In Figure,True
+Domain Aware Medical Image Classifier Interpretation by Counterfactual Impact Analysis,CBIS-DDSM,In Method,True
+Domain Aware Medical Image Classifier Interpretation by Counterfactual Impact Analysis,Chexpert,In Method,True
+ShapePU: A New PU Learning Framework Regularized by Global Consistency for Scribble Supervised Cardiac Segmentation,ACDC,In Abstract,True
+ShapePU: A New PU Learning Framework Regularized by Global Consistency for Scribble Supervised Cardiac Segmentation,ACDC,In Method,True
+ShapePU: A New PU Learning Framework Regularized by Global Consistency for Scribble Supervised Cardiac Segmentation,ACDC,In Figure,True
+Siamese Encoder-based Spatial-Temporal Mixer for Growth Trend Prediction of Lung Nodules on CT Scans,LIDC-IDRI,In Method,True
+Cooperative Training and Latent Space Data Augmentation for Robust Medical Image Segmentation,ACDC,In Method,True
+Cooperative Training and Latent Space Data Augmentation for Robust Medical Image Segmentation,ACDC,In Table,True
+Cooperative Training and Latent Space Data Augmentation for Robust Medical Image Segmentation,ACDC,In Footnote,True
+Cooperative Training and Latent Space Data Augmentation for Robust Medical Image Segmentation,ACDC,Elsewhere,True
+Cooperative Training and Latent Space Data Augmentation for Robust Medical Image Segmentation,M&Ms,In Method,True
+Cooperative Training and Latent Space Data Augmentation for Robust Medical Image Segmentation,M&Ms,In Table,True
+Cooperative Training and Latent Space Data Augmentation for Robust Medical Image Segmentation,M&Ms,In Footnote,True
+Unifying Heterogeneous Electronic Health Records Systems via Text-Based Code Embedding,MIMIC,Elsewhere,True
+Unifying Heterogeneous Electronic Health Records Systems via Text-Based Code Embedding,MIMIC,In Method,True
+Unifying Heterogeneous Electronic Health Records Systems via Text-Based Code Embedding,MIMIC,In Figure,True
+Unifying Heterogeneous Electronic Health Records Systems via Text-Based Code Embedding,MIMIC,In Table,True
+A Surprisingly Effective Perimeter-based Loss for Medical Image Segmentation,ACDC,Elsewhere,True
+A Surprisingly Effective Perimeter-based Loss for Medical Image Segmentation,ACDC,In Method,True
+A Surprisingly Effective Perimeter-based Loss for Medical Image Segmentation,ACDC,In Figure,True
+A Surprisingly Effective Perimeter-based Loss for Medical Image Segmentation,ACDC,In Table,True
+Variationally regularized graph-based representation learning for electronic health records,MIMIC,In Method,True
+Variationally regularized graph-based representation learning for electronic health records,MIMIC,Elsewhere,True
+Variationally regularized graph-based representation learning for electronic health records,MIMIC,In Table,True
+A Partially Reversible U-Net for Memory-Efficient Volumetric Image Segmentation,BRATS,In Abstract,True
+A Partially Reversible U-Net for Memory-Efficient Volumetric Image Segmentation,BRATS,Elsewhere,True
+A Partially Reversible U-Net for Memory-Efficient Volumetric Image Segmentation,BRATS,In Method,True
+A Partially Reversible U-Net for Memory-Efficient Volumetric Image Segmentation,BRATS,In Table,True
+The Intrinsic Manifolds of Radiological Images and Their Role in Deep Learning,BRATS,Elsewhere,True
+The Intrinsic Manifolds of Radiological Images and Their Role in Deep Learning,BRATS,In Method,True
+The Intrinsic Manifolds of Radiological Images and Their Role in Deep Learning,Chexpert,Elsewhere,True
+The Intrinsic Manifolds of Radiological Images and Their Role in Deep Learning,Chexpert,In Method,True
+Learning Bronchiole-Sensitive Airway Segmentation CNNs by Feature Recalibration and Attention Distillation,LIDC-IDRI,In Method,True
+The Power of Proxy Data and Proxy Networks for Hyper-parameter Optimization in Medical Image Segmentation,PROSTATEx,In Abstract,True
+The Power of Proxy Data and Proxy Networks for Hyper-parameter Optimization in Medical Image Segmentation,PROSTATEx,In Method,True
+The Power of Proxy Data and Proxy Networks for Hyper-parameter Optimization in Medical Image Segmentation,PROSTATEx,In Figure,True
+The Power of Proxy Data and Proxy Networks for Hyper-parameter Optimization in Medical Image Segmentation,PROSTATEx,In Table,True
+Feedback Graph Attention Convolutional Network for MR Images Enhancement by Exploring Self-Similarity Features,BRATS,Elsewhere,True
+Orthogonal Ensemble Networks for Biomedical Image Segmentation,BRATS,Elsewhere,True
+Leveraging an Alignment Set in Tackling Instance-Dependent Label Noise,MIMIC,In Abstract,True
+Leveraging an Alignment Set in Tackling Instance-Dependent Label Noise,MIMIC,In Method,True
+Leveraging an Alignment Set in Tackling Instance-Dependent Label Noise,MIMIC,In Table,True
+Leveraging an Alignment Set in Tackling Instance-Dependent Label Noise,MIMIC,Elsewhere,True
+Uncertainty Quantification for LDDMM Using a Low-Rank Hessian Approximation,Sunnybrook,In Method,True
+Scribble-Based Hierarchical Weakly Supervised Learning for Brain Tumor Segmentation,BRATS,In Abstract,True
+Scribble-Based Hierarchical Weakly Supervised Learning for Brain Tumor Segmentation,BRATS,In Method,True
+Scribble-Based Hierarchical Weakly Supervised Learning for Brain Tumor Segmentation,BRATS,In Table,True
+Degradation-Invariant Enhancement of Fundus Images via Pyramid Constraint Network,DRIVE,In Method,True
+Attention Guided Deep Supervision Model for Prostate Segmentation in Multisite Heterogeneous MRI Data,PROMISE12,Elsewhere,True
+Attention Guided Deep Supervision Model for Prostate Segmentation in Multisite Heterogeneous MRI Data,PROMISE12,In Method,True
+Attention Guided Deep Supervision Model for Prostate Segmentation in Multisite Heterogeneous MRI Data,PROMISE12,In Table,True
+Generator Versus Segmentor: Pseudo-healthy Synthesis,BRATS,In Abstract,True
+Generator Versus Segmentor: Pseudo-healthy Synthesis,BRATS,In Method,True
+Generator Versus Segmentor: Pseudo-healthy Synthesis,BRATS,Elsewhere,True
+Embedding Gradient-Based Optimization in Image Registration Networks,M&Ms,In Method,True
+Embedding Gradient-Based Optimization in Image Registration Networks,M&Ms,In Figure,True
+Diffusion Deformable Model for 4D Temporal Medical Image Generation,ACDC,Elsewhere,True
+Diffusion Deformable Model for 4D Temporal Medical Image Generation,ACDC,In Method,True
+Joint Modeling of Chest Radiographs and Radiology Reports for Pulmonary Edema Assessment,MIMIC,In Method,True
+Multiatlas Calibration of Biophysical Brain Tumor Growth Models with Mass Effect,BRATS,In Method,True
+Multiatlas Calibration of Biophysical Brain Tumor Growth Models with Mass Effect,BRATS,In Figure,True
+Style Curriculum Learning for Robust Medical Image Segmentation,M&Ms,In Abstract,True
+Style Curriculum Learning for Robust Medical Image Segmentation,M&Ms,Elsewhere,True
+Style Curriculum Learning for Robust Medical Image Segmentation,M&Ms,In Method,True
+Style Curriculum Learning for Robust Medical Image Segmentation,M&Ms,In Table,True
+Characterization of Lung Nodule Malignancy Using Hybrid Shape and Appearance Features,LIDC-IDRI,Elsewhere,True
+Characterization of Lung Nodule Malignancy Using Hybrid Shape and Appearance Features,LIDC-IDRI,In Method,True
+TBraTS: Trusted Brain Tumor Segmentation,BRATS,In Abstract,True
+TBraTS: Trusted Brain Tumor Segmentation,BRATS,Elsewhere,True
+TBraTS: Trusted Brain Tumor Segmentation,BRATS,In Method,True
+TBraTS: Trusted Brain Tumor Segmentation,BRATS,In Figure,True
+A Multi-task Network to Detect Junctions in Retinal Vasculature,DRIVE,In Abstract,True
+A Multi-task Network to Detect Junctions in Retinal Vasculature,DRIVE,Elsewhere,True
+A Multi-task Network to Detect Junctions in Retinal Vasculature,DRIVE,In Method,True
+A Multi-task Network to Detect Junctions in Retinal Vasculature,DRIVE,In Figure,True
+A Multi-task Network to Detect Junctions in Retinal Vasculature,DRIVE,In Table,True
+Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models,BRATS,In Method,True
+On the Applicability of Registration Uncertainty,BRATS,Elsewhere,True
+Lesion Segmentation and RECIST Diameter Prediction via Click-Driven Attention and Dual-Path Connection,LIDC-IDRI,In Method,True
+Feature Re-calibration Based Multiple Instance Learning for Whole Slide Image Classification,CAMELYON,In Method,True
+Feature Re-calibration Based Multiple Instance Learning for Whole Slide Image Classification,CAMELYON,In Table,True
+Efficient and Generic Interactive Segmentation Framework to Correct Mispredictions During Clinical Evaluation of Medical Images,BRATS,In Method,True
+Efficient and Generic Interactive Segmentation Framework to Correct Mispredictions During Clinical Evaluation of Medical Images,BRATS,Elsewhere,True
+Uncertainty-Guided Lung Nodule Segmentation with Feature-Aware Attention,LIDC-IDRI,In Abstract,True
+Uncertainty-Guided Lung Nodule Segmentation with Feature-Aware Attention,LIDC-IDRI,Elsewhere,True
+Uncertainty-Guided Lung Nodule Segmentation with Feature-Aware Attention,LIDC-IDRI,In Method,True
+Uncertainty-Guided Lung Nodule Segmentation with Feature-Aware Attention,LIDC-IDRI,In Figure,True
+End-to-end learning of convolutional neural net and dynamic programming for left ventricle segmentation,ACDC,In Method,True
+End-to-end learning of convolutional neural net and dynamic programming for left ventricle segmentation,ACDC,In Figure,True
+End-to-end learning of convolutional neural net and dynamic programming for left ventricle segmentation,ACDC,In Table,True
+End-to-end learning of convolutional neural net and dynamic programming for left ventricle segmentation,ACDC,Elsewhere,True
+Automated Labelling using an Attention model for Radiology reports of MRI scans (ALARM),MIMIC,Elsewhere,True
+NVUM: Non-volatile Unbiased Memory for Robust Medical Image Classification,Chexpert,In Abstract,True
+NVUM: Non-volatile Unbiased Memory for Robust Medical Image Classification,Chexpert,Elsewhere,True
+NVUM: Non-volatile Unbiased Memory for Robust Medical Image Classification,Chexpert,In Method,True
+NVUM: Non-volatile Unbiased Memory for Robust Medical Image Classification,ChestX-Ray14,In Abstract,True
+NVUM: Non-volatile Unbiased Memory for Robust Medical Image Classification,ChestX-Ray14,Elsewhere,True
+NVUM: Non-volatile Unbiased Memory for Robust Medical Image Classification,ChestX-Ray14,In Method,True
+NVUM: Non-volatile Unbiased Memory for Robust Medical Image Classification,PadChest,In Abstract,True
+NVUM: Non-volatile Unbiased Memory for Robust Medical Image Classification,PadChest,Elsewhere,True
+NVUM: Non-volatile Unbiased Memory for Robust Medical Image Classification,PadChest,In Method,True
+NVUM: Non-volatile Unbiased Memory for Robust Medical Image Classification,PadChest,In Table,True
+Assessing the Performance of Automated Prediction and Ranking of Patient Age from Chest X-rays Against Clinicians,Chexpert,Elsewhere,True
+Tailoring automated data augmentation to H&E-stained histopathology,CAMELYON,In Abstract,True
+Tailoring automated data augmentation to H&E-stained histopathology,CAMELYON,Elsewhere,True
+Tailoring automated data augmentation to H&E-stained histopathology,CAMELYON,In Method,True
+Globally Optimal Curvature-Regularized Fast Marching for Vessel Segmentation,DRIVE,In Method,True
+Globally Optimal Curvature-Regularized Fast Marching for Vessel Segmentation,DRIVE,In Figure,True
+Improving Generalizability in Limited-Angle CT Reconstruction with Sinogram Extrapolation,LIDC-IDRI,In Abstract,True
+Improving Generalizability in Limited-Angle CT Reconstruction with Sinogram Extrapolation,LIDC-IDRI,Elsewhere,True
+Improving Generalizability in Limited-Angle CT Reconstruction with Sinogram Extrapolation,LIDC-IDRI,In Method,True
+Improving Generalizability in Limited-Angle CT Reconstruction with Sinogram Extrapolation,LIDC-IDRI,In Table,True
+Exploring Smoothness and Class-Separation for Semi-supervised Medical Image Segmentation,ACDC,In Abstract,True
+Exploring Smoothness and Class-Separation for Semi-supervised Medical Image Segmentation,ACDC,Elsewhere,True
+Exploring Smoothness and Class-Separation for Semi-supervised Medical Image Segmentation,ACDC,In Method,True
+Exploring Smoothness and Class-Separation for Semi-supervised Medical Image Segmentation,ACDC,In Figure,True
+Exploring Smoothness and Class-Separation for Semi-supervised Medical Image Segmentation,ACDC,In Table,True
+Segmenting Potentially Cancerous Areas in Prostate Biopsies using Semi-Automatically Annotated Data,CAMELYON,In Abstract,True
+Segmenting Potentially Cancerous Areas in Prostate Biopsies using Semi-Automatically Annotated Data,CAMELYON,Elsewhere,True
+Nodule2vec: A 3D Deep Learning System for Pulmonary Nodule Retrieval Using Semantic Representation,LIDC-IDRI,In Abstract,True
+Nodule2vec: A 3D Deep Learning System for Pulmonary Nodule Retrieval Using Semantic Representation,LIDC-IDRI,Elsewhere,True
+Nodule2vec: A 3D Deep Learning System for Pulmonary Nodule Retrieval Using Semantic Representation,LIDC-IDRI,In Method,True
+Weakly Supervised Brain Lesion Segmentation via Attentional Representation Learning,BRATS,In Abstract,True
+Weakly Supervised Brain Lesion Segmentation via Attentional Representation Learning,BRATS,Elsewhere,True
+Weakly Supervised Brain Lesion Segmentation via Attentional Representation Learning,BRATS,In Method,True
+Weakly Supervised Brain Lesion Segmentation via Attentional Representation Learning,BRATS,In Figure,True
+Weakly Supervised Brain Lesion Segmentation via Attentional Representation Learning,BRATS,In Table,True
+Uncertainty-Aware Text-to-Program for Question Answering on Structured Electronic Health Records,MIMIC,Elsewhere,True
+Uncertainty-Aware Text-to-Program for Question Answering on Structured Electronic Health Records,MIMIC,In Method,True
+Pristine Annotations-Based Multi-modal Trained Artificial Intelligence Solution to Triage Chest X-Ray for COVID-19,PadChest,Elsewhere,True
+Imbalance-Aware Self-supervised Learning for 3D Radiomic Representations,BRATS,In Method,True
+Imbalance-Aware Self-supervised Learning for 3D Radiomic Representations,BRATS,Elsewhere,True
+Imbalance-Aware Self-supervised Learning for 3D Radiomic Representations,BRATS,In Figure,True
+Imbalance-Aware Self-supervised Learning for 3D Radiomic Representations,BRATS,In Table,True
+Splines for Diffeomorphic Image Regression,Sunnybrook,In Method,True
+A Learnable Variational Model for Joint Multimodal MRI Reconstruction and Synthesis,BRATS,In Method,True
+Token Imbalance Adaptation for Radiology Report Generation,Chexpert,In Method,True
+Token Imbalance Adaptation for Radiology Report Generation,MIMIC,In Abstract,True
+Token Imbalance Adaptation for Radiology Report Generation,MIMIC,Elsewhere,True
+Token Imbalance Adaptation for Radiology Report Generation,MIMIC,In Method,True
+Token Imbalance Adaptation for Radiology Report Generation,MIMIC,In Table,True
+Controllable Cardiac Synthesis via Disentangled Anatomy Arithmetic,ACDC,In Method,True
+Controllable Cardiac Synthesis via Disentangled Anatomy Arithmetic,ACDC,In Figure,True
+Controllable Cardiac Synthesis via Disentangled Anatomy Arithmetic,ACDC,In Table,True
+Controllable Cardiac Synthesis via Disentangled Anatomy Arithmetic,M&Ms,In Method,True
+Controllable Cardiac Synthesis via Disentangled Anatomy Arithmetic,M&Ms,In Figure,True
+Controllable Cardiac Synthesis via Disentangled Anatomy Arithmetic,M&Ms,In Table,True
+A Medical Semantic-Assisted Transformer for Radiographic Report Generation,MIMIC,In Abstract,True
+A Medical Semantic-Assisted Transformer for Radiographic Report Generation,MIMIC,Elsewhere,True
+A Medical Semantic-Assisted Transformer for Radiographic Report Generation,MIMIC,In Method,True
+A Medical Semantic-Assisted Transformer for Radiographic Report Generation,MIMIC,In Table,True
+Large-Scale Study of Temporal Shift in Health Insurance Claims,MIMIC,In Figure,True
+Multi-view Analysis of Unregistered Medical Images Using Cross-View Transformers,CBIS-DDSM,Elsewhere,True
+Multi-view Analysis of Unregistered Medical Images Using Cross-View Transformers,CBIS-DDSM,In Method,True
+Multi-view Analysis of Unregistered Medical Images Using Cross-View Transformers,CBIS-DDSM,In Table,True
+Multi-view Analysis of Unregistered Medical Images Using Cross-View Transformers,Chexpert,Elsewhere,True
+Multi-view Analysis of Unregistered Medical Images Using Cross-View Transformers,Chexpert,In Method,True
+Multi-view Analysis of Unregistered Medical Images Using Cross-View Transformers,Chexpert,In Table,True
+OptTTA: Learnable Test-Time Augmentation for Source-Free Medical Image Segmentation Under Domain Shift,M&Ms,In Method,True
+OptTTA: Learnable Test-Time Augmentation for Source-Free Medical Image Segmentation Under Domain Shift,M&Ms,Elsewhere,True
+OptTTA: Learnable Test-Time Augmentation for Source-Free Medical Image Segmentation Under Domain Shift,PROMISE12,Elsewhere,True
+Mutual information deep regularization for semi-supervised segmentation,ACDC,In Method,True
+Mutual information deep regularization for semi-supervised segmentation,ACDC,Elsewhere,True
+Mutual information deep regularization for semi-supervised segmentation,ACDC,In Figure,True
+Mutual information deep regularization for semi-supervised segmentation,ACDC,In Table,True
+MIMIC-Extract,MIMIC,In Abstract,True
+MIMIC-Extract,MIMIC,Elsewhere,True
+MIMIC-Extract,MIMIC,In Method,True
+MIMIC-Extract,MIMIC,In Figure,True
+MIMIC-Extract,MIMIC,In Table,True
+MIMIC-Extract,MIMIC,In Footnote,True
+ICA-UNet: ICA Inspired Statistical UNet for Real-Time 3D Cardiac Cine MRI Segmentation,ACDC,In Abstract,True
+ICA-UNet: ICA Inspired Statistical UNet for Real-Time 3D Cardiac Cine MRI Segmentation,ACDC,In Method,True
+ICA-UNet: ICA Inspired Statistical UNet for Real-Time 3D Cardiac Cine MRI Segmentation,ACDC,In Table,True
+Cluster-to-Conquer: A Framework for End-to-End Multi-Instance Learning for Whole Slide Image Classification,CAMELYON,In Method,True
+The Dice Loss in the Context of Missing or Empty Labels: Introducing $$\varPhi $$ and $$\epsilon $$,ACDC,In Method,True
+The Dice Loss in the Context of Missing or Empty Labels: Introducing $$\varPhi $$ and $$\epsilon $$,ACDC,In Figure,True
+The Dice Loss in the Context of Missing or Empty Labels: Introducing $$\varPhi $$ and $$\epsilon $$,ACDC,In Table,True
+The Dice Loss in the Context of Missing or Empty Labels: Introducing $$\varPhi $$ and $$\epsilon $$,BRATS,In Method,True
+The Dice Loss in the Context of Missing or Empty Labels: Introducing $$\varPhi $$ and $$\epsilon $$,BRATS,In Figure,True
+The Dice Loss in the Context of Missing or Empty Labels: Introducing $$\varPhi $$ and $$\epsilon $$,BRATS,In Table,True
+Benchmarking the Robustness of Deep Neural Networks to Common Corruptions in Digital Pathology,CAMELYON,In Method,True
+RATCHET: Medical Transformer for Chest X-ray Diagnosis and Reporting,Chexpert,In Method,True
+RATCHET: Medical Transformer for Chest X-ray Diagnosis and Reporting,MIMIC,In Method,True
+MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,ACDC,In Method,True
+MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,ACDC,In Figure,True
+MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,ACDC,In Table,True
+MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,M&Ms,In Method,True
+MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,M&Ms,In Table,True
+MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation,PROMISE12,Elsewhere,True
+MAC-ReconNet: A Multiple Acquisition Context based Convolutional Neural Network for MR Image Reconstruction using Dynamic Weight Prediction,ACDC,In Figure,True
+Scribble-Supervised Medical Image Segmentation via Dual-Branch Network and Dynamically Mixed Pseudo Labels Supervision,ACDC,In Abstract,True
+Scribble-Supervised Medical Image Segmentation via Dual-Branch Network and Dynamically Mixed Pseudo Labels Supervision,ACDC,Elsewhere,True
+Scribble-Supervised Medical Image Segmentation via Dual-Branch Network and Dynamically Mixed Pseudo Labels Supervision,ACDC,In Method,True
+Scribble-Supervised Medical Image Segmentation via Dual-Branch Network and Dynamically Mixed Pseudo Labels Supervision,ACDC,In Table,True
+Scribble-Supervised Medical Image Segmentation via Dual-Branch Network and Dynamically Mixed Pseudo Labels Supervision,ACDC,In Footnote,True
+Study Group Learning: Improving Retinal Vessel Segmentation Trained with Noisy Labels,DRIVE,In Abstract,True
+Study Group Learning: Improving Retinal Vessel Segmentation Trained with Noisy Labels,DRIVE,In Method,True
+Study Group Learning: Improving Retinal Vessel Segmentation Trained with Noisy Labels,DRIVE,In Figure,True
+Study Group Learning: Improving Retinal Vessel Segmentation Trained with Noisy Labels,DRIVE,In Table,True
+Joint Learning of Brain Lesion and Anatomy Segmentation from Heterogeneous Datasets,BRATS,Elsewhere,True
+Joint Learning of Brain Lesion and Anatomy Segmentation from Heterogeneous Datasets,BRATS,In Method,True
+Region-of-Interest Guided Supervoxel Inpainting for Self-supervision,BRATS,In Method,True
+Region-of-Interest Guided Supervoxel Inpainting for Self-supervision,BRATS,Elsewhere,True
+Region-of-Interest Guided Supervoxel Inpainting for Self-supervision,BRATS,In Figure,True
+Region-of-Interest Guided Supervoxel Inpainting for Self-supervision,BRATS,In Table,True
+Medical Matting: A New Perspective on Medical Segmentation with Uncertainty,LIDC-IDRI,In Method,True
+Medical Matting: A New Perspective on Medical Segmentation with Uncertainty,LIDC-IDRI,Elsewhere,True
+Medical Matting: A New Perspective on Medical Segmentation with Uncertainty,LIDC-IDRI,In Figure,True
+Medical Matting: A New Perspective on Medical Segmentation with Uncertainty,LIDC-IDRI,In Table,True
+Deep Learning and Structured Prediction for the Segmentation of Mass in Mammograms,CBIS-DDSM,In Abstract,True
+Deep Learning and Structured Prediction for the Segmentation of Mass in Mammograms,CBIS-DDSM,In Method,True
+Deep Learning and Structured Prediction for the Segmentation of Mass in Mammograms,CBIS-DDSM,In Table,True
+3DFPN-HS $$^2$$ 2 : 3D Feature Pyramid Network Based High Sensitivity and Specificity Pulmonary Nodule Detection,LIDC-IDRI,In Abstract,True
+3DFPN-HS $$^2$$ 2 : 3D Feature Pyramid Network Based High Sensitivity and Specificity Pulmonary Nodule Detection,LIDC-IDRI,Elsewhere,True
+3DFPN-HS $$^2$$ 2 : 3D Feature Pyramid Network Based High Sensitivity and Specificity Pulmonary Nodule Detection,LIDC-IDRI,In Method,True
+Multi-scale Neural ODEs for 3D Medical Image Registration,BRATS,In Method,True
+Multi-scale Neural ODEs for 3D Medical Image Registration,BRATS,In Table,True
+DS$$^3$$-Net: Difficulty-Perceived Common-to-T1ce Semi-supervised Multimodal MRI Synthesis Network,BRATS,In Abstract,True
+DS$$^3$$-Net: Difficulty-Perceived Common-to-T1ce Semi-supervised Multimodal MRI Synthesis Network,BRATS,In Method,True
+AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation,Chexpert,Elsewhere,True
+AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation,MIMIC,In Abstract,True
+AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation,MIMIC,Elsewhere,True
+AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation,MIMIC,In Method,True
+AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation,MIMIC,In Table,True
+Evaluating Model Performance in Medical Datasets Over Time,MIMIC,Elsewhere,True
+Evaluating Model Performance in Medical Datasets Over Time,MIMIC,In Method,True
+Evaluating Model Performance in Medical Datasets Over Time,MIMIC,In Figure,True
+Evaluating Model Performance in Medical Datasets Over Time,MIMIC,In Table,True
+Evaluating Model Performance in Medical Datasets Over Time,MIMIC,In Footnote,True
+Improving Pneumonia Localization via Cross-Attention on Medical Images and Reports,MIMIC,In Abstract,True
+Improving Pneumonia Localization via Cross-Attention on Medical Images and Reports,MIMIC,Elsewhere,True
+Improving Pneumonia Localization via Cross-Attention on Medical Images and Reports,MIMIC,In Method,True
+Improving Pneumonia Localization via Cross-Attention on Medical Images and Reports,MIMIC,In Figure,True
+Bounding Box Tightness Prior for Weakly Supervised Image Segmentation,PROMISE12,In Method,True
+Bounding Box Tightness Prior for Weakly Supervised Image Segmentation,PROMISE12,In Table,True
+Motion Pyramid Networks for Accurate and Efficient Cardiac Motion Estimation,ACDC,In Method,True
+Motion Pyramid Networks for Accurate and Efficient Cardiac Motion Estimation,ACDC,In Table,True
+Enriching Unsupervised User Embedding via Medical Concepts,MIMIC,In Abstract,True
+Enriching Unsupervised User Embedding via Medical Concepts,MIMIC,In Method,True
+Enriching Unsupervised User Embedding via Medical Concepts,MIMIC,Elsewhere,True
+Enriching Unsupervised User Embedding via Medical Concepts,MIMIC,In Table,True
+SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation,ACDC,In Abstract,True
+SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation,ACDC,Elsewhere,True
+SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation,ACDC,In Method,True
+SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation,ACDC,In Figure,True
+SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation,ACDC,In Table,True
+Identification of Subgroups With Similar Benefits in Off-Policy Policy Evaluation,MIMIC,Elsewhere,True
+Identification of Subgroups With Similar Benefits in Off-Policy Policy Evaluation,MIMIC,In Method,True
+Identification of Subgroups With Similar Benefits in Off-Policy Policy Evaluation,MIMIC,In Figure,True
+Annotation-Free Cardiac Vessel Segmentation via Knowledge Transfer from Retinal Images,DRIVE,Elsewhere,True
+Annotation-Free Cardiac Vessel Segmentation via Knowledge Transfer from Retinal Images,DRIVE,In Method,True
+Layer Ensembles: A Single-Pass Uncertainty Estimation in Deep Learning for Segmentation,M&Ms,In Method,True
+Discriminative Localization in CNNs for Weakly-Supervised Segmentation of Pulmonary Nodules,LIDC-IDRI,In Abstract,True
+Discriminative Localization in CNNs for Weakly-Supervised Segmentation of Pulmonary Nodules,LIDC-IDRI,Elsewhere,True
+Discriminative Localization in CNNs for Weakly-Supervised Segmentation of Pulmonary Nodules,LIDC-IDRI,In Method,True
+Adaptive Feature Recombination and Recalibration for Semantic Segmentation: Application to Brain Tumor Segmentation in MRI,BRATS,In Method,True
+Adaptive Feature Recombination and Recalibration for Semantic Segmentation: Application to Brain Tumor Segmentation in MRI,BRATS,Elsewhere,True
+Adaptive Feature Recombination and Recalibration for Semantic Segmentation: Application to Brain Tumor Segmentation in MRI,BRATS,In Table,True
+Federated Multilingual Models for Medical Transcript Analysis,MIMIC,In Table,True
+Deformed2Self: Self-supervised Denoising for Dynamic Medical Imaging,ACDC,In Method,True
+Deformed2Self: Self-supervised Denoising for Dynamic Medical Imaging,ACDC,In Figure,True
+Deformed2Self: Self-supervised Denoising for Dynamic Medical Imaging,ACDC,In Table,True
+Encoding Visual Attributes in Capsules for Explainable Medical Diagnoses,LIDC-IDRI,In Method,True
+Knee Injury Detection using MRI with Efficiently-Layered Network (ELNet),MRNet,In Abstract,True
+Knee Injury Detection using MRI with Efficiently-Layered Network (ELNet),MRNet,Elsewhere,True
+Knee Injury Detection using MRI with Efficiently-Layered Network (ELNet),MRNet,In Method,True
+Knee Injury Detection using MRI with Efficiently-Layered Network (ELNet),MRNet,In Figure,True
+Knee Injury Detection using MRI with Efficiently-Layered Network (ELNet),MRNet,In Table,True
+Partial transfusion: on the expressive influence of trainable batch norm parameters for transfer learning,Chexpert,In Method,True
+Partial transfusion: on the expressive influence of trainable batch norm parameters for transfer learning,Chexpert,In Table,True
+Partial transfusion: on the expressive influence of trainable batch norm parameters for transfer learning,CAMELYON,In Method,True
+Partial transfusion: on the expressive influence of trainable batch norm parameters for transfer learning,CAMELYON,In Table,True
+HeMIS: Hetero-Modal Image Segmentation,BRATS,In Method,True
+HeMIS: Hetero-Modal Image Segmentation,BRATS,In Figure,True
+HeMIS: Hetero-Modal Image Segmentation,BRATS,In Table,True
+HeMIS: Hetero-Modal Image Segmentation,BRATS,In Footnote,True
+Transfer Learning by Adaptive Merging of Multiple Models,BRATS,In Abstract,True
+Transfer Learning by Adaptive Merging of Multiple Models,BRATS,In Method,True
+Transfer Learning by Adaptive Merging of Multiple Models,BRATS,In Table,True
+Transfer Learning by Adaptive Merging of Multiple Models,BRATS,Elsewhere,True
+Attention Guided Network for Retinal Image Segmentation,DRIVE,In Method,True
+Attention Guided Network for Retinal Image Segmentation,DRIVE,In Figure,True
+Attention Guided Network for Retinal Image Segmentation,DRIVE,In Table,True
+Pulmonary Vessel Segmentation Based on Orthogonal Fused U-Net++ of Chest CT Images,LIDC-IDRI,In Abstract,True
+Pulmonary Vessel Segmentation Based on Orthogonal Fused U-Net++ of Chest CT Images,LIDC-IDRI,In Method,True
+Semi-automatic Brain Tumor Segmentation by Constrained MRFs Using Structural Trajectories,BRATS,In Abstract,True
+Semi-automatic Brain Tumor Segmentation by Constrained MRFs Using Structural Trajectories,BRATS,Elsewhere,True
+Semi-automatic Brain Tumor Segmentation by Constrained MRFs Using Structural Trajectories,BRATS,In Method,True
+Semi-automatic Brain Tumor Segmentation by Constrained MRFs Using Structural Trajectories,BRATS,In Table,True
+Unsupervised Quality Control of Image Segmentation Based on Bayesian Learning,ACDC,In Abstract,True
+Unsupervised Quality Control of Image Segmentation Based on Bayesian Learning,ACDC,Elsewhere,True
+Unsupervised Quality Control of Image Segmentation Based on Bayesian Learning,ACDC,In Method,True
+Unsupervised Quality Control of Image Segmentation Based on Bayesian Learning,ACDC,In Figure,True
+Unsupervised Quality Control of Image Segmentation Based on Bayesian Learning,BRATS,In Abstract,True
+Unsupervised Quality Control of Image Segmentation Based on Bayesian Learning,BRATS,Elsewhere,True
+Unsupervised Quality Control of Image Segmentation Based on Bayesian Learning,BRATS,In Method,True
+Unsupervised Quality Control of Image Segmentation Based on Bayesian Learning,BRATS,In Figure,True
+Automated Pulmonary Nodule Detection via 3D ConvNets with Online Sample Filtering and Hybrid-Loss Residual Learning,LIDC-IDRI,In Abstract,True
+Automated Pulmonary Nodule Detection via 3D ConvNets with Online Sample Filtering and Hybrid-Loss Residual Learning,LIDC-IDRI,Elsewhere,True
+Automated Pulmonary Nodule Detection via 3D ConvNets with Online Sample Filtering and Hybrid-Loss Residual Learning,LIDC-IDRI,In Method,True
+Automated Pulmonary Nodule Detection via 3D ConvNets with Online Sample Filtering and Hybrid-Loss Residual Learning,LIDC-IDRI,In Table,True
+Gifsplanation via Latent Shift: A Simple Autoencoder Approach to Counterfactual Generation for Chest X-rays,Chexpert,In Method,True
+Gifsplanation via Latent Shift: A Simple Autoencoder Approach to Counterfactual Generation for Chest X-rays,MIMIC,In Method,True
+An empirical framework for domain generalization in clinical settings,Chexpert,In Method,True
+An empirical framework for domain generalization in clinical settings,Chexpert,In Table,True
+An empirical framework for domain generalization in clinical settings,ChestX-Ray14,In Method,True
+An empirical framework for domain generalization in clinical settings,ChestX-Ray14,In Table,True
+An empirical framework for domain generalization in clinical settings,PadChest,In Method,True
+An empirical framework for domain generalization in clinical settings,PadChest,In Table,True
+An empirical framework for domain generalization in clinical settings,MIMIC,Elsewhere,True
+An empirical framework for domain generalization in clinical settings,MIMIC,In Method,True
+An empirical framework for domain generalization in clinical settings,MIMIC,In Table,True
+An empirical framework for domain generalization in clinical settings,CAMELYON,In Method,True
+TR-GAN: Topology Ranking GAN with Triplet Loss for Retinal Artery Vein Classification,DRIVE,In Abstract,True
+TR-GAN: Topology Ranking GAN with Triplet Loss for Retinal Artery Vein Classification,DRIVE,Elsewhere,True
+TR-GAN: Topology Ranking GAN with Triplet Loss for Retinal Artery Vein Classification,DRIVE,In Method,True
+TR-GAN: Topology Ranking GAN with Triplet Loss for Retinal Artery Vein Classification,DRIVE,In Table,True
+Learning Morphological Feature Perturbations for Calibrated Semi-Supervised Segmentation,BRATS,In Method,True
+Learning Morphological Feature Perturbations for Calibrated Semi-Supervised Segmentation,BRATS,In Table,True
+TorchXRayVision: A library of chest X-ray datasets and models,Chexpert,Elsewhere,True
+TorchXRayVision: A library of chest X-ray datasets and models,Chexpert,In Figure,True
+TorchXRayVision: A library of chest X-ray datasets and models,Chexpert,In Table,True
+TorchXRayVision: A library of chest X-ray datasets and models,PadChest,Elsewhere,True
+TorchXRayVision: A library of chest X-ray datasets and models,PadChest,In Table,True
+TorchXRayVision: A library of chest X-ray datasets and models,MIMIC,Elsewhere,True
+TorchXRayVision: A library of chest X-ray datasets and models,MIMIC,In Table,True
+TorchXRayVision: A library of chest X-ray datasets and models,VinDr-CXR,In Table,True
+Efficient Out-of-Distribution Detection in Digital Pathology Using Multi-Head Convolutional Neural Networks,CAMELYON,In Method,True
+Efficient Out-of-Distribution Detection in Digital Pathology Using Multi-Head Convolutional Neural Networks,CAMELYON,In Table,True
+Retinal Image Segmentation with a Structure-Texture Demixing Network,DRIVE,Elsewhere,True
+Retinal Image Segmentation with a Structure-Texture Demixing Network,DRIVE,In Method,True
+Retinal Image Segmentation with a Structure-Texture Demixing Network,DRIVE,In Figure,True
+Retinal Image Segmentation with a Structure-Texture Demixing Network,DRIVE,In Table,True
+Bounding boxes for weakly supervised segmentation: Global constraints get close to full supervision,PROMISE12,In Method,True
+Bounding boxes for weakly supervised segmentation: Global constraints get close to full supervision,PROMISE12,In Figure,True
+Bounding boxes for weakly supervised segmentation: Global constraints get close to full supervision,PROMISE12,In Table,True
+Bounding boxes for weakly supervised segmentation: Global constraints get close to full supervision,PROMISE12,In Footnote,True
+HartleyMHA: Self-attention in Frequency Domain for Resolution-Robust and Parameter-Efficient 3D Image Segmentation,BRATS,In Abstract,True
+HartleyMHA: Self-attention in Frequency Domain for Resolution-Robust and Parameter-Efficient 3D Image Segmentation,BRATS,Elsewhere,True
+HartleyMHA: Self-attention in Frequency Domain for Resolution-Robust and Parameter-Efficient 3D Image Segmentation,BRATS,In Method,True
+HartleyMHA: Self-attention in Frequency Domain for Resolution-Robust and Parameter-Efficient 3D Image Segmentation,BRATS,In Figure,True
+Benefits of Linear Conditioning for Segmentation using Metadata,ACDC,Elsewhere,True
+Unsupervised Domain Adaptation for Medical Image Segmentation via Self-Training of Early Features,M&Ms,In Method,True
+Unsupervised Domain Adaptation for Medical Image Segmentation via Self-Training of Early Features,M&Ms,In Figure,True
+Unsupervised Domain Adaptation for Medical Image Segmentation via Self-Training of Early Features,M&Ms,In Table,True
+Unsupervised Domain Adaptation for Medical Image Segmentation via Self-Training of Early Features,M&Ms,Elsewhere,True
+An Elastic Interaction-Based Loss Function for Medical Image Segmentation,DRIVE,In Abstract,True
+An Elastic Interaction-Based Loss Function for Medical Image Segmentation,DRIVE,Elsewhere,True
+An Elastic Interaction-Based Loss Function for Medical Image Segmentation,DRIVE,In Method,True
+An Elastic Interaction-Based Loss Function for Medical Image Segmentation,DRIVE,In Table,True
+SAR: Scale-Aware Restoration Learning for 3D Tumor Segmentation,BRATS,In Method,True
+SAR: Scale-Aware Restoration Learning for 3D Tumor Segmentation,BRATS,In Figure,True
+SAR: Scale-Aware Restoration Learning for 3D Tumor Segmentation,BRATS,In Table,True
+XCAT-GAN for Synthesizing 3D Consistent Labeled Cardiac MR Images on Anatomically Variable XCAT Phantoms,ACDC,In Method,True
+XCAT-GAN for Synthesizing 3D Consistent Labeled Cardiac MR Images on Anatomically Variable XCAT Phantoms,ACDC,In Table,True
+XCAT-GAN for Synthesizing 3D Consistent Labeled Cardiac MR Images on Anatomically Variable XCAT Phantoms,ACDC,Elsewhere,True
+XCAT-GAN for Synthesizing 3D Consistent Labeled Cardiac MR Images on Anatomically Variable XCAT Phantoms,Sunnybrook,In Method,True
+Liver Tissue Classification in Patients with Hepatocellular Carcinoma by Fusing Structured and Rotationally Invariant Context Representation,BRATS,In Method,True
+KD-MRI: A knowledge distillation framework for image reconstruction and image restoration in MRI workflow,ACDC,In Figure,True
+KD-MRI: A knowledge distillation framework for image reconstruction and image restoration in MRI workflow,ACDC,In Table,True
+Denoising Autoencoders for Unsupervised Anomaly Detection in Brain MRI,BRATS,In Method,True
+Hierarchical Self-supervised Learning for Medical Image Segmentation Based on Multi-domain Data Aggregation,ACDC,In Table,True
+Hierarchical Self-supervised Learning for Medical Image Segmentation Based on Multi-domain Data Aggregation,M&Ms,In Table,True
+Evidence Fusion with Contextual Discounting for Multi-modality Medical Image Segmentation,BRATS,In Method,True
+Evidence Fusion with Contextual Discounting for Multi-modality Medical Image Segmentation,BRATS,In Table,True
+Tracing Retinal Blood Vessels by Matrix-Forest Theorem of Directed Graphs,DRIVE,In Method,True
+Tracing Retinal Blood Vessels by Matrix-Forest Theorem of Directed Graphs,DRIVE,In Figure,True
+Tracing Retinal Blood Vessels by Matrix-Forest Theorem of Directed Graphs,DRIVE,In Table,True
+A Divide-and-Conquer Approach Towards Understanding Deep Networks,DRIVE,Elsewhere,True
+A Divide-and-Conquer Approach Towards Understanding Deep Networks,DRIVE,In Method,True
+A Divide-and-Conquer Approach Towards Understanding Deep Networks,DRIVE,In Table,True
+DeScarGAN: Disease-Specific Anomaly Detection with Weak Supervision,Chexpert,Elsewhere,True
+DeScarGAN: Disease-Specific Anomaly Detection with Weak Supervision,Chexpert,In Method,True
+DeScarGAN: Disease-Specific Anomaly Detection with Weak Supervision,Chexpert,In Figure,True
+DeScarGAN: Disease-Specific Anomaly Detection with Weak Supervision,Chexpert,In Table,True
+Foundation Ark: Accruing and Reusing Knowledge for Superior and Robust Performance,Chexpert,In Abstract,True
+Foundation Ark: Accruing and Reusing Knowledge for Superior and Robust Performance,Chexpert,Elsewhere,True
+Foundation Ark: Accruing and Reusing Knowledge for Superior and Robust Performance,MIMIC,In Abstract,True
+Foundation Ark: Accruing and Reusing Knowledge for Superior and Robust Performance,MIMIC,Elsewhere,True
+Foundation Ark: Accruing and Reusing Knowledge for Superior and Robust Performance,VinDr-CXR,In Abstract,True
+Foundation Ark: Accruing and Reusing Knowledge for Superior and Robust Performance,VinDr-CXR,Elsewhere,True
+Automatic Radiology Report Generation Based on Multi-view Image Fusion and Medical Concept Enrichment,Chexpert,Elsewhere,True
+Automatic Radiology Report Generation Based on Multi-view Image Fusion and Medical Concept Enrichment,Chexpert,In Method,True
+Weakly Supervised One-Stage Vision and Language Disease Detection Using Large Scale Pneumonia and Pneumothorax Studies,Chexpert,In Method,True
+Weakly Supervised One-Stage Vision and Language Disease Detection Using Large Scale Pneumonia and Pneumothorax Studies,MIMIC,In Abstract,True
+Weakly Supervised One-Stage Vision and Language Disease Detection Using Large Scale Pneumonia and Pneumothorax Studies,MIMIC,Elsewhere,True
+Weakly Supervised One-Stage Vision and Language Disease Detection Using Large Scale Pneumonia and Pneumothorax Studies,MIMIC,In Method,True
+Weakly Supervised One-Stage Vision and Language Disease Detection Using Large Scale Pneumonia and Pneumothorax Studies,MIMIC,In Table,True
+Concept-based model explanations for electronic health records,MIMIC,Elsewhere,True
+Concept-based model explanations for electronic health records,MIMIC,In Method,True
+Concept-based model explanations for electronic health records,MIMIC,In Figure,True
+Learning Directional Feature Maps for Cardiac MRI Segmentation,ACDC,In Abstract,True
+Learning Directional Feature Maps for Cardiac MRI Segmentation,ACDC,In Method,True
+Learning Directional Feature Maps for Cardiac MRI Segmentation,ACDC,Elsewhere,True
+Learning Directional Feature Maps for Cardiac MRI Segmentation,ACDC,In Figure,True
+Learning Directional Feature Maps for Cardiac MRI Segmentation,ACDC,In Table,True
+Joint Learning of Vessel Segmentation and Artery Vein Classification with Post-processing,DRIVE,In Abstract,True
+Joint Learning of Vessel Segmentation and Artery Vein Classification with Post-processing,DRIVE,In Method,True
+Joint Learning of Vessel Segmentation and Artery Vein Classification with Post-processing,DRIVE,In Table,True
+Federated Whole Prostate Segmentation in MRI with Personalized Neural Architectures,PROMISE12,In Method,True
+Federated Whole Prostate Segmentation in MRI with Personalized Neural Architectures,PROMISE12,In Figure,True
+Federated Whole Prostate Segmentation in MRI with Personalized Neural Architectures,PROMISE12,In Table,True
+Federated Whole Prostate Segmentation in MRI with Personalized Neural Architectures,PROMISE12,In Footnote,True
+Federated Whole Prostate Segmentation in MRI with Personalized Neural Architectures,PROSTATEx,In Method,True
+Federated Whole Prostate Segmentation in MRI with Personalized Neural Architectures,PROSTATEx,In Table,True
+Federated Whole Prostate Segmentation in MRI with Personalized Neural Architectures,PROSTATEx,In Footnote,True
+The Minimum Cost Connected Subgraph Problem in Medical Image Analysis,DRIVE,In Method,True
+The Minimum Cost Connected Subgraph Problem in Medical Image Analysis,DRIVE,In Table,True
+Rib Suppression in Digital Chest Tomosynthesis,LIDC-IDRI,In Method,True
+CASED: Curriculum Adaptive Sampling for Extreme Data Imbalance,LIDC-IDRI,In Abstract,True
+CASED: Curriculum Adaptive Sampling for Extreme Data Imbalance,LIDC-IDRI,Elsewhere,True
+CASED: Curriculum Adaptive Sampling for Extreme Data Imbalance,LIDC-IDRI,In Method,True
+CASED: Curriculum Adaptive Sampling for Extreme Data Imbalance,LIDC-IDRI,In Table,True
+AnaXNet: Anatomy Aware Multi-label Finding Classification in Chest X-Ray,MIMIC,In Method,True
+Supervised Feature Learning for Curvilinear Structure Segmentation,DRIVE,In Method,True
+PHTrans: Parallelly Aggregating Global and Local Representations for Medical Image Segmentation,ACDC,In Method,True
+PHTrans: Parallelly Aggregating Global and Local Representations for Medical Image Segmentation,ACDC,In Table,True
+DECAPS: Detail-Oriented Capsule Networks,Chexpert,In Abstract,True
+DECAPS: Detail-Oriented Capsule Networks,Chexpert,In Method,True
+DECAPS: Detail-Oriented Capsule Networks,Chexpert,Elsewhere,True
+DECAPS: Detail-Oriented Capsule Networks,Chexpert,In Figure,True
+DECAPS: Detail-Oriented Capsule Networks,Chexpert,In Table,True
+Region-Guided CycleGANs for Stain Transfer in Whole Slide Images,CAMELYON,In Method,True
+Region-Guided CycleGANs for Stain Transfer in Whole Slide Images,CAMELYON,Elsewhere,True
+Region-Guided CycleGANs for Stain Transfer in Whole Slide Images,CAMELYON,In Table,True
+A Unified Hyper-GAN Model for Unpaired Multi-contrast MR Image Translation,BRATS,In Abstract,True
+A Unified Hyper-GAN Model for Unpaired Multi-contrast MR Image Translation,BRATS,Elsewhere,True
+A Unified Hyper-GAN Model for Unpaired Multi-contrast MR Image Translation,BRATS,In Method,True
+A Unified Hyper-GAN Model for Unpaired Multi-contrast MR Image Translation,BRATS,In Figure,True
+A Unified Hyper-GAN Model for Unpaired Multi-contrast MR Image Translation,BRATS,In Table,True
+Conditional Generative Adversarial and Convolutional Networks for X-ray Breast Mass Segmentation and Shape Classification,CBIS-DDSM,In Abstract,True
+Conditional Generative Adversarial and Convolutional Networks for X-ray Breast Mass Segmentation and Shape Classification,CBIS-DDSM,In Method,True
+Conditional Generative Adversarial and Convolutional Networks for X-ray Breast Mass Segmentation and Shape Classification,CBIS-DDSM,Elsewhere,True
+Conditional Generative Adversarial and Convolutional Networks for X-ray Breast Mass Segmentation and Shape Classification,CBIS-DDSM,In Table,True
+Realistic Adversarial Data Augmentation for MR Image Segmentation,ACDC,In Method,True
+Realistic Adversarial Data Augmentation for MR Image Segmentation,ACDC,In Footnote,True
+TransFusion: Multi-view Divergent Fusion for Medical Image Segmentation with Transformers,M&Ms,In Abstract,True
+TransFusion: Multi-view Divergent Fusion for Medical Image Segmentation with Transformers,M&Ms,Elsewhere,True
+TransFusion: Multi-view Divergent Fusion for Medical Image Segmentation with Transformers,M&Ms,In Method,True
+Do We Still Need Clinical Language Models?,MIMIC,In Abstract,True
+Do We Still Need Clinical Language Models?,MIMIC,Elsewhere,True
+Do We Still Need Clinical Language Models?,MIMIC,In Method,True
+Do We Still Need Clinical Language Models?,MIMIC,In Table,True
+SMU-Net: Style matching U-Net for brain tumor segmentation with missing modalities,BRATS,In Abstract,True
+SMU-Net: Style matching U-Net for brain tumor segmentation with missing modalities,BRATS,In Method,True
+SMU-Net: Style matching U-Net for brain tumor segmentation with missing modalities,BRATS,Elsewhere,True
+SMU-Net: Style matching U-Net for brain tumor segmentation with missing modalities,BRATS,In Figure,True
+SMU-Net: Style matching U-Net for brain tumor segmentation with missing modalities,BRATS,In Table,True
+Renal Cell Carcinoma Detection and Subtyping with Minimal Point-Based Annotation in Whole-Slide Images,CAMELYON,Elsewhere,True
+Incremental Learning for Heterogeneous Structure Segmentation in Brain Tumor MRI,BRATS,In Method,True

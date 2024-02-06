@@ -1,6 +1,7 @@
-/Results/extraction/fulltext/*
+/Results/extraction/fulltext/*.pdf
 /Results/folds/detect/*
 /Results/folds/no_detect/*
-/Results/extraction/grobid_extraction/*
+/Results/extraction/grobid_extraction/*.xml
 **/__pycache__
 /Resources/documents/report.md
+**/annotations

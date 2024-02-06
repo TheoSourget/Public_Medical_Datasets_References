@@ -76,6 +76,8 @@ fold_id,pdf_name
 0,Benefits of Linear Conditioning for Segmentation using Metadata
 0,Explainable Image Quality Analysis of Chest X-Rays
 0,Digitally Stained Confocal Microscopy through Deep Learning
+0,Learning the Latent Heat Diffusion Process through Structural Brain Network from Longitudinal $\beta$-Amyloid Data
+0,"Residual learning for 3D motion corrected quantitative MRI: Robust clinical T1, T2 and proton density mapping"
 1,TINC: Temporally Informed Non-contrastive Learning for Disease Progression Modeling in Retinal OCT Volumes
 1,Test Time Transform Prediction for Open Set Histopathological Image Recognition
 1,Automated Classification of General Movements in Infants Using Two-Stream Spatiotemporal Fusion Network
@@ -2283,5 +2285,3 @@ fold_id,pdf_name
 29,3D-RADNet: Extracting labels from DICOM metadata for training general medical domain deep 3D convolution neural networks
 29,Siamese Content Loss Networks for Highly Imbalanced Medical Image Segmentation
 29,Learning interpretable multi-modal features for alignment with supervised iterative descent
-0,Learning the Latent Heat Diffusion Process through Structural Brain Network from Longitudinal $\beta$-Amyloid Data
-0,"Residual learning for 3D motion corrected quantitative MRI: Robust clinical T1, T2 and proton density mapping"
